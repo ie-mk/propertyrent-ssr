@@ -1,0 +1,12 @@
+
+.idea/
+dist/
+node_modules/
+.next/
+_next/
+.DS_Store
+config.js
+.npmrc
+*.log
+yarn-error.log
+e2e/node_modules/

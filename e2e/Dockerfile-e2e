@@ -1,0 +1,9 @@
+FROM cypress/browsers:node12.0.0-chrome75
+WORKDIR /app
+ADD . /app
+
+RUN ls -al
+RUN cd ./e2e/ && yarn
+RUN yarn
+
+CMD ["yarn", "run", "cypress:ci"]

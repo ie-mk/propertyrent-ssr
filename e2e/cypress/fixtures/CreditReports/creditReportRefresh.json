@@ -1,0 +1,3630 @@
+{
+  "companyNumber": "09707863",
+  "companyName": "ESF CAPITAL LIMITED",
+  "reportData": {
+    "1569579102558": {
+      "regNumber": "09707863",
+      "companyName": "ESF CAPITAL LIMITED",
+      "address": {
+        "LocationLine1": "2ND FLOOR NEWLANDS HOUSE",
+        "LocationLine2": "40 BERNERS STREET",
+        "LocationLine3": "LONDON",
+        "Postcode": "W1T 3NA"
+      },
+      "incorporationDate": "2015-07-29",
+      "latestAccounts": "2017-12-31",
+      "numberDaysToFileAccounts": "275",
+      "auditor": "RSM UK AUDIT LLP",
+      "bank": "-",
+      "delphi": {
+        "score": "15",
+        "band": "6",
+        "bandText": "Maximum risk",
+        "conclusionText": [
+          "A maximum risk company; all credit transactions should be supported by a director's guarantee.",
+          "There has been a very heavy trading loss in the latest accounting period."
+        ]
+      },
+      "monthlyDelphi": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "Sep '18",
+              "value": 15
+            },
+            {
+              "name": "Oct '18",
+              "value": 15
+            },
+            {
+              "name": "Nov '18",
+              "value": 15
+            },
+            {
+              "name": "Dec '18",
+              "value": 15
+            },
+            {
+              "name": "Jan '19",
+              "value": 15
+            },
+            {
+              "name": "Feb '19",
+              "value": 15
+            },
+            {
+              "name": "Mar '19",
+              "value": 15
+            },
+            {
+              "name": "Apr '19",
+              "value": 15
+            },
+            {
+              "name": "May '19",
+              "value": 15
+            },
+            {
+              "name": "Jun '19",
+              "value": 15
+            },
+            {
+              "name": "Jul '19",
+              "value": 15
+            },
+            {
+              "name": "Aug '19",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Sep '18",
+              "value": 45
+            },
+            {
+              "name": "Oct '18",
+              "value": 46
+            },
+            {
+              "name": "Nov '18",
+              "value": 42
+            },
+            {
+              "name": "Dec '18",
+              "value": 42
+            },
+            {
+              "name": "Jan '19",
+              "value": 42
+            },
+            {
+              "name": "Feb '19",
+              "value": 42
+            },
+            {
+              "name": "Mar '19",
+              "value": 42
+            },
+            {
+              "name": "Apr '19",
+              "value": 42
+            },
+            {
+              "name": "May '19",
+              "value": 42
+            },
+            {
+              "name": "Jun '19",
+              "value": 42
+            },
+            {
+              "name": "Jul '19",
+              "value": 42
+            },
+            {
+              "name": "Aug '19",
+              "value": 42
+            }
+          ]
+        }
+      ],
+      "fss": {
+        "score": "72.0",
+        "band": 7,
+        "bandText": "B-"
+      },
+      "monthlyFSS": [
+        {
+          "name": "Sep '18",
+          "value": "53.0",
+          "band": "C+"
+        },
+        {
+          "name": "Oct '18",
+          "value": "50.0",
+          "band": "C+"
+        },
+        {
+          "name": "Nov '18",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Dec '18",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Jan '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Feb '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Mar '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Apr '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "May '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Jun '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Jul '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Aug '19",
+          "value": "72.0",
+          "band": "B-"
+        },
+        {
+          "name": "Sep '19",
+          "value": "72.0",
+          "band": "B-"
+        }
+      ],
+      "hfs": {
+        "band": 5,
+        "bandText": "D2"
+      },
+      "turnover": ["1736", "1560"],
+      "salesGrowth": 0.11282051282051282,
+      "salesGrowthBand": 3,
+      "avgDBT": [
+        {
+          "name": "3 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "19"
+            }
+          ]
+        },
+        {
+          "name": "6 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "20"
+            }
+          ]
+        },
+        {
+          "name": "12 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "9"
+            },
+            {
+              "name": "Industry Average",
+              "value": "21"
+            }
+          ]
+        }
+      ],
+      "monthlyDBT": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "Sep '18",
+              "value": 13
+            },
+            {
+              "name": "Oct '18",
+              "value": 18
+            },
+            {
+              "name": "Nov '18",
+              "value": 19
+            },
+            {
+              "name": "Dec '18",
+              "value": 12
+            },
+            {
+              "name": "Jan '19",
+              "value": 0
+            },
+            {
+              "name": "Feb '19",
+              "value": 0
+            },
+            {
+              "name": "Mar '19",
+              "value": 0
+            },
+            {
+              "name": "Apr '19",
+              "value": 0
+            },
+            {
+              "name": "May '19",
+              "value": 0
+            },
+            {
+              "name": "Jun '19",
+              "value": 0
+            },
+            {
+              "name": "Jul '19",
+              "value": 0
+            },
+            {
+              "name": "Aug '19",
+              "value": 0
+            },
+            {
+              "name": "Sep '19",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Sep '18",
+              "value": 23
+            },
+            {
+              "name": "Oct '18",
+              "value": 21
+            },
+            {
+              "name": "Nov '18",
+              "value": 20
+            },
+            {
+              "name": "Dec '18",
+              "value": 20
+            },
+            {
+              "name": "Jan '19",
+              "value": 21
+            },
+            {
+              "name": "Feb '19",
+              "value": 22
+            },
+            {
+              "name": "Mar '19",
+              "value": 22
+            },
+            {
+              "name": "Apr '19",
+              "value": 21
+            },
+            {
+              "name": "May '19",
+              "value": 19
+            },
+            {
+              "name": "Jun '19",
+              "value": 19
+            },
+            {
+              "name": "Jul '19",
+              "value": 19
+            },
+            {
+              "name": "Aug '19",
+              "value": 20
+            }
+          ]
+        }
+      ],
+      "monthlyDBTExposures": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "Sep '18",
+              "value": 9
+            },
+            {
+              "name": "Oct '18",
+              "value": 10
+            },
+            {
+              "name": "Nov '18",
+              "value": 8
+            },
+            {
+              "name": "Dec '18",
+              "value": 5
+            },
+            {
+              "name": "Jan '19",
+              "value": 3
+            },
+            {
+              "name": "Feb '19",
+              "value": 2
+            },
+            {
+              "name": "Mar '19",
+              "value": 2
+            },
+            {
+              "name": "Apr '19",
+              "value": 2
+            },
+            {
+              "name": "May '19",
+              "value": 3
+            },
+            {
+              "name": "Jun '19",
+              "value": 3
+            },
+            {
+              "name": "Jul '19",
+              "value": 4
+            },
+            {
+              "name": "Aug '19",
+              "value": 4
+            },
+            {
+              "name": "Sep '19",
+              "value": 4
+            }
+          ]
+        }
+      ],
+      "DBTByAccount": {
+        "1K": {
+          "company": "0",
+          "industry": "16"
+        },
+        "10K": {
+          "company": "0",
+          "industry": "33"
+        },
+        "100K": {
+          "company": "-",
+          "industry": "31"
+        },
+        "100KPlus": {
+          "company": "-",
+          "industry": "17"
+        }
+      },
+      "CCJs": [
+        {
+          "period": "12 Months",
+          "number": "0",
+          "value": "0"
+        },
+        {
+          "period": "6 Years",
+          "number": "0",
+          "value": "0"
+        }
+      ],
+      "dateCreated": "2019-09-29T11:55:21.157Z"
+    }
+  },
+  "experianCreditReport": {
+    "companyNumber": "09707863",
+    "reportData": {
+      "RegNumber": "09707863",
+      "CommercialName": "ESF CAPITAL LIMITED",
+      "Identification": {
+        "LegalStatus": "2",
+        "IncorporationDate": "2015-07-29",
+        "RegisteredOffice": {
+          "LocationLine1": "2ND FLOOR NEWLANDS HOUSE",
+          "LocationLine2": "40 BERNERS STREET",
+          "LocationLine3": "LONDON",
+          "Postcode": "W1T 3NA"
+        },
+        "Currency": "GBP",
+        "AsRegisteredOffice": "Y",
+        "TradingLocation": {
+          "LocationLine1": "2ND FLOOR NEWLANDS HOUSE",
+          "LocationLine2": "40 BERNERS STREET",
+          "LocationLine3": "LONDON",
+          "Postcode": "W1T 3NA"
+        },
+        "PrincipalActivities": "FACILITATION OF LOANS TO SMALL AND MEDIUM SIZED ENTERPRISES, FUNDED BY A RANGE OF INVESTORS THROUGH PROPRIETARY PLATFORMS.",
+        "SICInformation1980": [
+          {
+            "Code": "9890",
+            "Description": "PERSONAL SERVICES"
+          }
+        ],
+        "SICInformation1992": [
+          {
+            "Code": "9305",
+            "Description": "OTHER SERVICE ACTIVITIES"
+          }
+        ],
+        "PreviousAddresses": {
+          "NumPrevAddresses": "2",
+          "PreviousCRO": [
+            {
+              "DateChanged": "2016-05-18",
+              "RegisteredOffice": {
+                "LocationLine1": "18TH FLOOR, MARBLE ARCH TOWER",
+                "LocationLine2": "55 BRYANSTON STREET",
+                "LocationLine3": "LONDON",
+                "Postcode": "W1H 7AA"
+              }
+            },
+            {
+              "DateChanged": "2015-11-09",
+              "RegisteredOffice": {
+                "LocationLine1": "PALLADIUM HOUSE",
+                "LocationLine2": "1-4 ARGYLL STREET",
+                "LocationLine3": "LONDON",
+                "Postcode": "W1F 7TA"
+              }
+            }
+          ]
+        },
+        "ThomsonData": {
+          "ThomsonCustNumber": "9924394",
+          "ThomsonPremiseCode": "05",
+          "URL": "www.tincats.com"
+        },
+        "FilingDetails": {
+          "DatabaseAccountsOutOfDate": "N",
+          "FiledAccountsOutOfDate": "N",
+          "LatestAccounts": "2017-12-31",
+          "LatestReturns": "2019-06-16",
+          "LatestReturnsDatabase": "2019-06-16",
+          "LatestAccountsDatabase": "2017-12-31",
+          "NumAccountsOnFile": "2",
+          "LatestAccountType": "4",
+          "AccountsRefDate": {
+            "MM": "12",
+            "DD": "30"
+          },
+          "NumberDaysToFileAccounts": "275"
+        },
+        "Auditor": {
+          "Currency": "GBP",
+          "Remuneration": "0000000023000",
+          "NonAuditFee": "48000",
+          "AuditType": "A",
+          "AuditQual": "0",
+          "Auditors": "RSM UK AUDIT LLP"
+        },
+        "Bank": null,
+        "CROChanges": {
+          "NumCROChanges": "17",
+          "CROChangeDetail": [
+            {
+              "DocumentType": "G",
+              "DocumentDate": "2019-08-30"
+            },
+            {
+              "DocumentType": "B",
+              "DocumentDate": "2019-04-18"
+            },
+            {
+              "DocumentType": "B",
+              "DocumentDate": "2018-03-22"
+            },
+            {
+              "DocumentType": "G",
+              "DocumentDate": "2017-10-10"
+            },
+            {
+              "DocumentType": "B",
+              "DocumentDate": "2017-07-22"
+            },
+            {
+              "DocumentType": "G",
+              "DocumentDate": "2017-02-15"
+            },
+            {
+              "DocumentType": "B",
+              "DocumentDate": "2016-09-22"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2016-07-26"
+            },
+            {
+              "DocumentType": "B",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "G",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "G",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            },
+            {
+              "DocumentType": "C",
+              "DocumentDate": "2015-12-10"
+            }
+          ]
+        },
+        "PrevSearches": {
+          "NumPrevSearch": "28",
+          "NumPrevSearch3Mth": "18",
+          "NumPrevSearch6Mth": "21",
+          "NumPrevSearch12Mth": "28",
+          "PreviousSearchDetail": [
+            {
+              "SearchDate": "2019-09-27",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-26",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-25",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-24",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-23",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-20",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-19",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-09-19",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-18",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-12",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-09-03",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-08-30",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-08-16",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-08-14",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-08-13",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-08-02",
+              "EnquiryType": "0",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "MISCELLANEOUS"
+              }
+            },
+            {
+              "SearchDate": "2019-07-17",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-07-05",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-06-28",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-05-02",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-04-24",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-03-18",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Code": "6190",
+                "Type": "WHOL",
+                "Description": "MISC. GOODS"
+              }
+            },
+            {
+              "SearchDate": "2019-02-21",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2019-02-20",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "Y",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "OWN ENQUIRY"
+              }
+            },
+            {
+              "SearchDate": "2018-12-10",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "MISCELLANEOUS"
+              }
+            },
+            {
+              "SearchDate": "2018-10-26",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "MISCELLANEOUS"
+              }
+            },
+            {
+              "SearchDate": "2018-10-22",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "MISCELLANEOUS"
+              }
+            },
+            {
+              "SearchDate": "2018-10-09",
+              "EnquiryType": "C",
+              "OwnEnquiryFlag": "N",
+              "SICInformation": {
+                "Type": "MISC",
+                "Description": "MISCELLANEOUS"
+              }
+            }
+          ]
+        },
+        "CCLs": {
+          "TotalNumberCCL": "0"
+        }
+      },
+      "CorporateStructure": {
+        "CompanyOwnership": {
+          "BulkShareHolders": "N",
+          "BulkTelephone": "0115 9016000 *2",
+          "NumPrincShareHldrs": "20",
+          "ParentDetail": null,
+          "UltParentDetail": null,
+          "CorporateShareholder": [
+            {
+              "Country": "USA",
+              "Name": "CORBIN MEZZANINE FUND I, L.P. ACTING BY CORBIN CAP",
+              "Holding": "168,000 PREFOTH £1; 1,500,000 ORD A 10p SHARES"
+            },
+            {
+              "RegNumber": "09688523",
+              "Country": "GBR",
+              "Name": "BLACKLION LIMITED",
+              "Holding": "2,238,500 ORD A 10p; 395,047 ORD OTH 10p & OTHERS"
+            },
+            {
+              "Country": "GBR",
+              "Name": "RAVINDER S ANAND",
+              "Holding": "56,250 PREFOTH £1; 335,000 ORD A 10p & OTHERS"
+            },
+            {
+              "Country": "GBR",
+              "Name": "JOHN MOULD",
+              "Holding": "335,000 ORD A 10p; 3,250 ORD OTH 1p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "QUENTIN BAER",
+              "Holding": "335,000 ORD A 10p; 2,000 ORD OTH 1p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "ALEXANDER DUNCAN",
+              "Holding": "300,000 ORD A 10p; 1,825 ORD OTH 1p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "NATALIA NOWAK",
+              "Holding": "225,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "RICHARD BUTLER",
+              "Holding": "150,000 ORD A 10p; 52,943 ORD OTH 10p & OTHERS"
+            },
+            {
+              "RegNumber": "07992508",
+              "Country": "GBR",
+              "Name": "RH INITIATIVES LIMITED",
+              "Holding": "100,000 ORD A 10p; 35,296 ORD OTH 10p & OTHERS"
+            },
+            {
+              "Country": "GBR",
+              "Name": "STEVEN THOMSON",
+              "Holding": "90,000 ORD A 10p; 1,500 ORD OTH 1p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "GEORGINA EWELS",
+              "Holding": "66,667 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "STEVEN FERRIS",
+              "Holding": "34,500 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "DEMETRI DINOPOULOS",
+              "Holding": "22,500 ORD A 10p; 7,941 ORD OTH 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "NICK BULLER",
+              "Holding": "30,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "ADRIAN MARTYN",
+              "Holding": "30,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "HSIAO-CHEN J MORTON",
+              "Holding": "25,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "GREG BEAMISH",
+              "Holding": "22,500 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "WEI-YI HO",
+              "Holding": "20,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "KARIM ASKAR",
+              "Holding": "15,000 ORD A 10p SHARES"
+            },
+            {
+              "Country": "GBR",
+              "Name": "MARC WEBER",
+              "Holding": "8,000 ORD A 10p; 2,824 ORD OTH 10p SHARES"
+            }
+          ]
+        },
+        "Subsidiaries": {
+          "TreePosition": "5",
+          "TotalElements": "6",
+          "TotalSubs": "5",
+          "TotalNumImmediateSubs": "4",
+          "TotalNumLiveImmediateSubs": "1",
+          "TotalNumDormantImmediateSubs": "3",
+          "TotalNumDissolvedLiquidatedImmediateSubs": "0",
+          "TotalNumNestedSubs": "5",
+          "TotalNumSubs": "4",
+          "TotalNumUKSubs": "4",
+          "TotalNumOverseasSubs": "0",
+          "UKSubsidiaries": [
+            {
+              "SubRegNumber": "10725890",
+              "SubStatus": "D",
+              "SubLegalStatus": "2",
+              "SubName": "ESF LOANS LIMITED"
+            },
+            {
+              "SubRegNumber": "07248014",
+              "SubStatus": "L",
+              "SubLegalStatus": "2",
+              "SubName": "BUSINESS LOAN NETWORK LIMITED"
+            },
+            {
+              "SubRegNumber": "09721235",
+              "SubStatus": "D",
+              "SubLegalStatus": "2",
+              "SubName": "TC LOANS I LIMITED"
+            },
+            {
+              "SubRegNumber": "09867563",
+              "SubStatus": "D",
+              "SubLegalStatus": "2",
+              "SubName": "BUSINESS LOAN CAPITAL LIMITED"
+            }
+          ]
+        }
+      },
+      "ManagementInfo": {
+        "LatestReturns": "2019-06-16",
+        "NumDirs": "6",
+        "NumSecs": "0",
+        "NumCurrDirs": "5",
+        "NumPrevDirs": "1",
+        "DirectorAvgAge": "0",
+        "DirectorAvgLength": "38",
+        "NumCurrDirectorLast12": "0",
+        "NumAppointmentsLast12": "0",
+        "NumResignationsLast12": "0",
+        "NumDisqualifications": "0",
+        "Directors": {
+          "CurrentDirector": [
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D15410075",
+              "AppointmentDate": "2015-12-07",
+              "AppointmentIndicator": "E",
+              "DirectorshipLength": "0045",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Forename": "VIKRAM",
+                  "SurName": "AGGARWAL"
+                },
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "BURWOOD HOUSE",
+                  "HouseNumber": "14-16",
+                  "Street": "CAXTON STREET",
+                  "District": "LONDON GREATER",
+                  "PostTown": "LONDON",
+                  "Postcode": "SW1H 0QT",
+                  "RMC": "0000702"
+                },
+                "Occupation": "DIRECTOR",
+                "Nationality": "BRITISH"
+              }
+            },
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D16368591",
+              "AppointmentDate": "2015-12-07",
+              "AppointmentIndicator": "E",
+              "DirectorshipLength": "0045",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Forename": "JOHN",
+                  "SurName": "MOULD"
+                },
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "2ND FLOOR NEWLANDS HOUSE",
+                  "HouseNumber": "40",
+                  "Street": "BERNERS STREET",
+                  "PostTown": "LONDON",
+                  "Postcode": "W1T 3NA",
+                  "RMC": "0000502"
+                },
+                "Occupation": "DIRECTOR",
+                "Nationality": "BRITISH",
+                "ShareInformation": "335,000 ORD A 10p; 3,250 ORD OTH 1p"
+              }
+            },
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D16445755",
+              "AppointmentDate": "2015-12-07",
+              "AppointmentIndicator": "E",
+              "DirectorshipLength": "0045",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Forename": "QUENTIN",
+                  "SurName": "BAER"
+                },
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "2ND FLOOR NEWLANDS HOUSE",
+                  "HouseNumber": "40",
+                  "Street": "BERNERS STREET",
+                  "PostTown": "LONDON",
+                  "Postcode": "W1T 3NA",
+                  "RMC": "0000502"
+                },
+                "Occupation": "DIRECTOR",
+                "Nationality": "BRITISH",
+                "ShareInformation": "335,000 ORD A 10p; 2,000 ORD OTH 1p"
+              }
+            },
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D12466045",
+              "AppointmentDate": "2015-12-07",
+              "AppointmentIndicator": "E",
+              "DirectorshipLength": "0045",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Prefix": "MR",
+                  "Forename": "RAVINDER",
+                  "MiddleNames": "SINGH",
+                  "SurName": "ANAND"
+                },
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "2ND FLOOR NEWLANDS HOUSE",
+                  "HouseNumber": "40",
+                  "Street": "BERNERS STREET",
+                  "PostTown": "LONDON",
+                  "Postcode": "W1T 3NA",
+                  "RMC": "0000502"
+                },
+                "Occupation": "DIRECTOR",
+                "Nationality": "BRITISH",
+                "ShareInformation": "56,250 PREFOTH £1; 335,000 ORD A 10p & OTHERS"
+              }
+            },
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D12139638",
+              "AppointmentDate": "2015-12-07",
+              "AppointmentIndicator": "E",
+              "DirectorshipLength": "0045",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Prefix": "MR",
+                  "Forename": "ALEXANDER",
+                  "SurName": "SCHMID"
+                },
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "2ND FLOOR NEWLANDS HOUSE",
+                  "HouseNumber": "40",
+                  "Street": "BERNERS STREET",
+                  "PostTown": "LONDON",
+                  "Postcode": "W1T 3NA",
+                  "RMC": "0000502"
+                },
+                "Occupation": "DIRECTOR",
+                "Nationality": "GERMAN"
+              }
+            }
+          ],
+          "PreviousDirector": [
+            {
+              "ForeignAddressFlag": "N",
+              "DirectorCompanyFlag": "N",
+              "DirectorNumber": "D16164413",
+              "AppointmentDate": "2015-07-29",
+              "AppointmentIndicator": "E",
+              "ResignationDate": "2015-12-07",
+              "ResignationIndicator": "E",
+              "DirectorshipLength": "0004",
+              "LatestReturns": "2019-06-16",
+              "NumberConvictions": "0",
+              "DirectorDetails": {
+                "Name": {
+                  "Prefix": "MR",
+                  "Forename": "ALEXANDER",
+                  "MiddleNames": "JAMES",
+                  "SurName": "DUNCAN"
+                },
+                "DateOfBirth": "1975-01-21",
+                "DirectorAge": "44",
+                "CommercialDetail": null,
+                "Location": {
+                  "HouseName": "MARBLE ARCH TOWER",
+                  "HouseNumber": "55",
+                  "Street": "BRYANSTON STREET",
+                  "PostTown": "LONDON",
+                  "Postcode": "W1H 7AA",
+                  "RMC": "0000502"
+                },
+                "Occupation": "ACCOUNTANT",
+                "Nationality": "BRITISH",
+                "ShareInformation": "300,000 ORD A 10p; 1,825 ORD OTH 1p"
+              }
+            }
+          ]
+        }
+      },
+      "LimitedCompanyDelphiDirector": [
+        {
+          "MaxOtherDirectorships": "0007",
+          "NumCreditorsWindDown": "0",
+          "NumConvictions": "0",
+          "NumCCJLast12month": "0",
+          "ValueCCJLast12month": "000000",
+          "PercentageFailures": "000067",
+          "NumFailures": "2",
+          "DirectorhsipsCreditorWindDown": "000000"
+        }
+      ],
+      "Shareholders": {
+        "HeaderInfo": [
+          {
+            "RecordType": "H",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "IssuedCapital": "1",
+            "LegalStatus": "0",
+            "DocumentType": "R",
+            "LatestCurrent": "2019-07-30",
+            "LatestUpdate": "2019-07-30",
+            "DateLoaded": "2019-07-30"
+          }
+        ],
+        "ShareCapital": [
+          {
+            "RecordType": "I",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "Currency": "GBP",
+            "ShareClassCode": "2",
+            "ShareClassDesc": "ORD A",
+            "VotingRights": "1",
+            "TotalNominalCapital": "591966",
+            "NumShares": "5919667",
+            "NominalValue": "0.10",
+            "Percentage": "21.50",
+            "LatestUpdate": "2019-09-17"
+          },
+          {
+            "RecordType": "I",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000010",
+            "Currency": "GBP",
+            "ShareClassCode": "K",
+            "ShareClassDesc": "PREFOTH",
+            "VotingRights": "2",
+            "TotalNominalCapital": "273750",
+            "NumShares": "2737500",
+            "NominalValue": "0.10",
+            "Percentage": "9.94",
+            "LatestUpdate": "2019-09-17"
+          },
+          {
+            "RecordType": "I",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000002",
+            "Currency": "GBP",
+            "ShareClassCode": "J",
+            "ShareClassDesc": "ORD OTH",
+            "VotingRights": "1",
+            "TotalNominalCapital": "150000",
+            "NumShares": "15000000",
+            "NominalValue": "0.01",
+            "Percentage": "5.45",
+            "LatestUpdate": "2019-09-17"
+          }
+        ],
+        "Shareholdings": [
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000001",
+            "NumShares": "6000",
+            "TotalNominalCapital": "599",
+            "Percentage": "0.10",
+            "PercentageTotalCapital": "0.06",
+            "Approximation": "0",
+            "LatestUpdate": "2019-09-17"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000010",
+            "NumShares": "7500",
+            "TotalNominalCapital": "749",
+            "Percentage": "0.13",
+            "PercentageTotalCapital": "0.07",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000011",
+            "NumShares": "1500000",
+            "TotalNominalCapital": "149999",
+            "Percentage": "25.34",
+            "PercentageTotalCapital": "14.77",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000012",
+            "NumShares": "22500",
+            "TotalNominalCapital": "2249",
+            "Percentage": "0.38",
+            "PercentageTotalCapital": "0.22",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000013",
+            "NumShares": "300000",
+            "TotalNominalCapital": "29999",
+            "Percentage": "5.07",
+            "PercentageTotalCapital": "2.95",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000014",
+            "NumShares": "66667",
+            "TotalNominalCapital": "6666",
+            "Percentage": "1.13",
+            "PercentageTotalCapital": "0.66",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000015",
+            "NumShares": "34500",
+            "TotalNominalCapital": "3449",
+            "Percentage": "0.58",
+            "PercentageTotalCapital": "0.34",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000016",
+            "NumShares": "20000",
+            "TotalNominalCapital": "1999",
+            "Percentage": "0.34",
+            "PercentageTotalCapital": "0.20",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000017",
+            "NumShares": "7500",
+            "TotalNominalCapital": "749",
+            "Percentage": "0.13",
+            "PercentageTotalCapital": "0.07",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000018",
+            "NumShares": "30000",
+            "TotalNominalCapital": "2999",
+            "Percentage": "0.51",
+            "PercentageTotalCapital": "0.30",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000019",
+            "NumShares": "25000",
+            "TotalNominalCapital": "2499",
+            "Percentage": "0.42",
+            "PercentageTotalCapital": "0.25",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000002",
+            "NumShares": "335000",
+            "TotalNominalCapital": "33499",
+            "Percentage": "5.66",
+            "PercentageTotalCapital": "3.30",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000020",
+            "NumShares": "335000",
+            "TotalNominalCapital": "33499",
+            "Percentage": "5.66",
+            "PercentageTotalCapital": "3.30",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000021",
+            "NumShares": "225000",
+            "TotalNominalCapital": "22499",
+            "Percentage": "3.80",
+            "PercentageTotalCapital": "2.22",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000022",
+            "NumShares": "6000",
+            "TotalNominalCapital": "599",
+            "Percentage": "0.10",
+            "PercentageTotalCapital": "0.06",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000023",
+            "NumShares": "100000",
+            "TotalNominalCapital": "9999",
+            "Percentage": "1.69",
+            "PercentageTotalCapital": "0.98",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000024",
+            "NumShares": "90000",
+            "TotalNominalCapital": "8999",
+            "Percentage": "1.52",
+            "PercentageTotalCapital": "0.89",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000025",
+            "NumShares": "8000",
+            "TotalNominalCapital": "799",
+            "Percentage": "0.14",
+            "PercentageTotalCapital": "0.08",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000003",
+            "NumShares": "15000",
+            "TotalNominalCapital": "1499",
+            "Percentage": "0.25",
+            "PercentageTotalCapital": "0.15",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000004",
+            "NumShares": "335000",
+            "TotalNominalCapital": "33499",
+            "Percentage": "5.66",
+            "PercentageTotalCapital": "3.30",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000005",
+            "NumShares": "22500",
+            "TotalNominalCapital": "2249",
+            "Percentage": "0.38",
+            "PercentageTotalCapital": "0.22",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000006",
+            "NumShares": "2238500",
+            "TotalNominalCapital": "223849",
+            "Percentage": "37.81",
+            "PercentageTotalCapital": "22.04",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000007",
+            "NumShares": "10000",
+            "TotalNominalCapital": "999",
+            "Percentage": "0.17",
+            "PercentageTotalCapital": "0.10",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000008",
+            "NumShares": "30000",
+            "TotalNominalCapital": "2999",
+            "Percentage": "0.51",
+            "PercentageTotalCapital": "0.30",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000009",
+            "NumShares": "150000",
+            "TotalNominalCapital": "14999",
+            "Percentage": "2.53",
+            "PercentageTotalCapital": "1.48",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000010",
+            "ShareholdingNo": "000004",
+            "NumShares": "547500",
+            "TotalNominalCapital": "54750",
+            "Percentage": "20.00",
+            "PercentageTotalCapital": "5.39",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000010",
+            "ShareholdingNo": "000005",
+            "NumShares": "2190000",
+            "TotalNominalCapital": "219000",
+            "Percentage": "80.00",
+            "PercentageTotalCapital": "21.56",
+            "Approximation": "0",
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "S",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000002",
+            "ShareholdingNo": "000026",
+            "NumShares": "3000000",
+            "TotalNominalCapital": "30000",
+            "Percentage": "20.00",
+            "PercentageTotalCapital": "2.95",
+            "Approximation": "0",
+            "LatestUpdate": "2019-09-17"
+          }
+        ],
+        "Shareholder": [
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000001",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "RAZ",
+                "Surname": "AKBAR"
+              },
+              "CommercialDetail": {
+                "KGENName": "AKBR R"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000010",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "MARKO",
+                "Surname": "CELIC"
+              },
+              "CommercialDetail": {
+                "KGENName": "CLC  M"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000011",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "O",
+              "CommercialDetail": {
+                "Name": "CORBIN MEZZANINE FUND I, L.P. ACTING BY CORBIN CAP",
+                "KGENName": "CRBNMZ"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000012",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "DEMETRI",
+                "Surname": "DINOPOULOS"
+              },
+              "CommercialDetail": {
+                "KGENName": "DNPL D"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000013",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "ALEXANDER",
+                "Surname": "DUNCAN"
+              },
+              "CommercialDetail": {
+                "KGENName": "DNCN A"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000014",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "GEORGINA",
+                "Surname": "EWELS"
+              },
+              "CommercialDetail": {
+                "KGENName": "EL   G"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000015",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "STEVEN",
+                "Surname": "FERRIS"
+              },
+              "CommercialDetail": {
+                "KGENName": "FR   S"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000016",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "WEI-YI",
+                "Surname": "HO"
+              },
+              "CommercialDetail": {
+                "KGENName": "H    W"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000017",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "RICHARD",
+                "Surname": "HUNT"
+              },
+              "CommercialDetail": {
+                "KGENName": "HNT  R"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000018",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "ADRIAN",
+                "Surname": "MARTYN"
+              },
+              "CommercialDetail": {
+                "KGENName": "MRTN A"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000019",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "HSIAO-CHEN",
+                "MiddleNames": "JENNY SUN",
+                "Surname": "MORTON"
+              },
+              "CommercialDetail": {
+                "KGENName": "MRTN H"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000002",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "RAVINDER",
+                "MiddleNames": "SINGH",
+                "Surname": "ANAND"
+              },
+              "CommercialDetail": {
+                "KGENName": "ANND R"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000020",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "JOHN",
+                "Surname": "MOULD"
+              },
+              "CommercialDetail": {
+                "KGENName": "MLD  J"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000021",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "NATALIA",
+                "Surname": "NOWAK"
+              },
+              "CommercialDetail": {
+                "KGENName": "NK   N"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000022",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "YVETTE",
+                "Surname": "PEARSON"
+              },
+              "CommercialDetail": {
+                "KGENName": "PRSN Y"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000023",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "C",
+              "CommercialDetail": {
+                "Name": "RH INITIATIVES LIMITED",
+                "KGENName": "RNTTV",
+                "RegNumber": "07992508"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000024",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "STEVEN",
+                "Surname": "THOMSON"
+              },
+              "CommercialDetail": {
+                "KGENName": "TMSN S"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000025",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "MARC",
+                "Surname": "WEBER"
+              },
+              "CommercialDetail": {
+                "KGENName": "WBR  M"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000003",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "KARIM",
+                "Surname": "ASKAR"
+              },
+              "CommercialDetail": {
+                "KGENName": "ASKR K"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000004",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "QUENTIN",
+                "Surname": "BAER"
+              },
+              "CommercialDetail": {
+                "KGENName": "BR   Q"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000005",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "GREG",
+                "Surname": "BEAMISH"
+              },
+              "CommercialDetail": {
+                "KGENName": "BMS  G"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000006",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "C",
+              "CommercialDetail": {
+                "Name": "BLACKLION LIMITED",
+                "KGENName": "BLCKLN",
+                "RegNumber": "09688523"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000007",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "NIGEL",
+                "Surname": "BONGARD"
+              },
+              "CommercialDetail": {
+                "KGENName": "BNGRDN"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000008",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "NICK",
+                "Surname": "BULLER"
+              },
+              "CommercialDetail": {
+                "KGENName": "BLR  N"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000001",
+            "ShareholdingNo": "000009",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "I",
+              "Name": {
+                "FirstName": "RICHARD",
+                "Surname": "BUTLER"
+              },
+              "CommercialDetail": {
+                "KGENName": "BTLR R"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000010",
+            "ShareholdingNo": "000004",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "C",
+              "CommercialDetail": {
+                "Name": "BAE SYSTEMS 2000 PENSION PLAN TRUSTEES LIMITED",
+                "KGENName": "BSSTM2",
+                "RegNumber": "03671056"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000010",
+            "ShareholdingNo": "000005",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "C",
+              "CommercialDetail": {
+                "Name": "BAE SYSTEMS PENSION FUNDS TRUSTEES LIMITED",
+                "KGENName": "BSSTMP",
+                "RegNumber": "00753964"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          },
+          {
+            "RecordType": "U",
+            "IssuingCompany": "09707863",
+            "CurrentPreviousFlag": "C",
+            "EffectiveDate": "2019-06-16",
+            "ShareClassNo": "000002",
+            "ShareholdingNo": "000026",
+            "ShareholderNo": "000001",
+            "ShareholderDetails": {
+              "ShareholderType": "C",
+              "CommercialDetail": {
+                "Name": "BAE SYSTEMS 2000 PENSION PLAN TRUSTEES LIMITED",
+                "KGENName": "BSSTM2",
+                "RegNumber": "03671056"
+              }
+            },
+            "LatestUpdate": "2019-07-30"
+          }
+        ]
+      },
+      "CommercialDelphi": {
+        "CommDelphiScore": "15",
+        "CommDelphiBand": "6",
+        "StabilityOdds": "6:1",
+        "OverrideIndicator": "N",
+        "CommDelphiBandText": "Maximum risk",
+        "CreditRating": "0",
+        "CreditRatingOverrideIndicator": "N",
+        "CreditLimit": "0",
+        "CreditLimitOverrideIndicator": "N",
+        "ParentIndicator": "N",
+        "CreditTextLine1": "There has been a very heavy trading loss in the latest accounting period.",
+        "ConclusionText": "A maximum risk company; all credit transactions should be supported by a director's guarantee.",
+        "CreditTextOverrideIndicator": "N"
+      },
+      "PaymentPerformance": {
+        "PaymentFull": {
+          "AvgDBT3Mnths": "0",
+          "AvgDBT6Mnths": "0",
+          "AvgDBT12Mnths": "9",
+          "NumberDBT1K": "0",
+          "NumberDBT10K": "0",
+          "NumberCashFirst": "0",
+          "NumberCollection": "0",
+          "ValCollection": "0",
+          "UnpaidAccountsDetails": [
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            },
+            {
+              "UnpaidAccounts": "0"
+            }
+          ],
+          "IndAvgDBT3Mnths": "19",
+          "IndAvgDBT6Mnths": "20",
+          "IndAvgDBT12Mnths": "21",
+          "IndNumberDBT1K": "16",
+          "IndNumberDBT10K": "33",
+          "IndNumberDBT100K": "31",
+          "IndNumberDBT100KPlus": "17",
+          "PaymentPattern": "C",
+          "IndPaymentPattern": "F",
+          "PaymentToTerms": "W",
+          "FastestPayment": "0",
+          "FastestMonth": "2019-01",
+          "SlowestPayment": "19",
+          "SlowestMonth": "2018-11",
+          "NumCommonTerms": "1",
+          "CompanyNumMnths": "13",
+          "IndustryNumMnths": "12",
+          "CompanyDBTMonthly": [
+            {
+              "CompanyExpMonth": "2018-09",
+              "CompanyDBT": "13",
+              "CompanyNumExp": "9"
+            },
+            {
+              "CompanyExpMonth": "2018-10",
+              "CompanyDBT": "18",
+              "CompanyNumExp": "10"
+            },
+            {
+              "CompanyExpMonth": "2018-11",
+              "CompanyDBT": "19",
+              "CompanyNumExp": "8"
+            },
+            {
+              "CompanyExpMonth": "2018-12",
+              "CompanyDBT": "12",
+              "CompanyNumExp": "5"
+            },
+            {
+              "CompanyExpMonth": "2019-01",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "3"
+            },
+            {
+              "CompanyExpMonth": "2019-02",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "2"
+            },
+            {
+              "CompanyExpMonth": "2019-03",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "2"
+            },
+            {
+              "CompanyExpMonth": "2019-04",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "2"
+            },
+            {
+              "CompanyExpMonth": "2019-05",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "3"
+            },
+            {
+              "CompanyExpMonth": "2019-06",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "3"
+            },
+            {
+              "CompanyExpMonth": "2019-07",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "4"
+            },
+            {
+              "CompanyExpMonth": "2019-08",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "4"
+            },
+            {
+              "CompanyExpMonth": "2019-09",
+              "CompanyDBT": "0",
+              "CompanyNumExp": "4"
+            }
+          ],
+          "IndDBTMonthly": [
+            {
+              "IndExpMonth": "2018-09",
+              "IndustryDBT": "23"
+            },
+            {
+              "IndExpMonth": "2018-10",
+              "IndustryDBT": "21"
+            },
+            {
+              "IndExpMonth": "2018-11",
+              "IndustryDBT": "20"
+            },
+            {
+              "IndExpMonth": "2018-12",
+              "IndustryDBT": "20"
+            },
+            {
+              "IndExpMonth": "2019-01",
+              "IndustryDBT": "21"
+            },
+            {
+              "IndExpMonth": "2019-02",
+              "IndustryDBT": "22"
+            },
+            {
+              "IndExpMonth": "2019-03",
+              "IndustryDBT": "22"
+            },
+            {
+              "IndExpMonth": "2019-04",
+              "IndustryDBT": "21"
+            },
+            {
+              "IndExpMonth": "2019-05",
+              "IndustryDBT": "19"
+            },
+            {
+              "IndExpMonth": "2019-06",
+              "IndustryDBT": "19"
+            },
+            {
+              "IndExpMonth": "2019-07",
+              "IndustryDBT": "19"
+            },
+            {
+              "IndExpMonth": "2019-08",
+              "IndustryDBT": "20"
+            }
+          ],
+          "CommonTerms": [
+            {
+              "CommonTermsDBT": "0",
+              "CommonTermsNumExp": "4",
+              "CommonTermsCode": "OTHER",
+              "CommonTermsText": "Others/Unknown"
+            }
+          ],
+          "IndustrySICDesc": "Public and personal services"
+        }
+      },
+      "Financials": {
+        "Accounts": [
+          {
+            "DateOfAccounts": "2017-12-31",
+            "AccountingPeriod": "52",
+            "Currency": "GBP",
+            "CurrencyMultiplier": "T",
+            "ConsolidatedAccounts": "Y",
+            "DormancyFlag": "N",
+            "LatestAccountsType": "G",
+            "RestatedAccounts": "N",
+            "BalanceSheet": {
+              "TangibleAssetsDetails": {
+                "TangibleAssets": "133",
+                "LandBuildings": "0",
+                "Freehold": "0",
+                "Leasehold": "0",
+                "FixturesFittings": "124",
+                "PlantVehicles": "9",
+                "Plant": "9",
+                "Vehicles": "0",
+                "OtherTangibleAssets": "0"
+              },
+              "IntangibleAssets": "5391",
+              "OtherNonCurrentAssetsDetails": {
+                "OtherNonCurrentAssets": "0"
+              },
+              "TotalFixedNonCurrentAssets": "5524",
+              "InventoriesDetails": {
+                "Inventories": "0",
+                "RawMaterialStock": "0",
+                "WorkInProgress": "0",
+                "FinishedGoods": "0"
+              },
+              "DebtorsDetails": {
+                "Debtors": "739",
+                "AccountsReceivableTradeDebtors": "58",
+                "DebtorsGroupLoans": "0",
+                "OtherDebtors": "681"
+              },
+              "TotalCashDetails": {
+                "TotalCash": "3162"
+              },
+              "OtherCurrentAssetsDetails": {
+                "OtherCurrentAssets": "0"
+              },
+              "TotalCurrentAssets": "3901",
+              "CreditorsDetails": {
+                "AccountsPayableTradeCreditors": "178",
+                "GroupLoans": "0",
+                "AccrualsDeferredIncome": "490"
+              },
+              "FinancialLiabilitiesDetails": null,
+              "OtherCurrentLiabilitiesDetails": {
+                "OtherCurrentLiabilities": "228"
+              },
+              "TotalCurrentLiabilities": "896",
+              "WorkingCapital": "3005",
+              "CapitalEmployed": "8529",
+              "LongTermFinancialLiabilitiesDetails": {
+                "FinanceLeasesHirePurchase": "0",
+                "FinanceLease": "0",
+                "HirePurchase": "0",
+                "OtherLongTermLoans": "0"
+              },
+              "OtherNonCurrentLiabilitiesDetails": {
+                "OtherNonCurrentLiabilities": "0",
+                "GroupLoans": "0",
+                "DirectorLoans": "0",
+                "Accruals": "0"
+              },
+              "TotalNonCurrentLiabilities": "0",
+              "ProvisionsDetails": {
+                "Provisions": "1241",
+                "DeferredTaxation": "0",
+                "Pension": "0",
+                "OtherProvision": "1241"
+              },
+              "MinorityInterestsUKGAAP": "703",
+              "NetAssets": "7991",
+              "IssuedCapitalDetails": {
+                "IssuedCapital": "1127",
+                "OrdinaryShares": "1127",
+                "PreferenceShares": "0",
+                "Other": "0"
+              },
+              "SharePremium": "25062",
+              "RetainedEarnings": "-18198",
+              "RevaluationReserve": "0",
+              "Other": "0",
+              "TotalShareholdersFunds": "7991",
+              "NetWorth": "2600"
+            },
+            "ProfitLoss": {
+              "TurnoverSalesDetails": {
+                "TurnoverSales": "1736"
+              },
+              "CostOfSales": "181",
+              "ExceptionalItemsPreGP": "0",
+              "OtherDirectItems": "0",
+              "GrossProfit": "1555",
+              "OperatingExpenses": "10090",
+              "OperatingIncome": "0",
+              "ExceptionalItemsPreOP": "0",
+              "OperatingProfit": "-8535",
+              "OtherIncome": "0",
+              "InterestReceivable": "8",
+              "InterestPayableDetails": {
+                "InterestPayable": "0",
+                "ToBank": "0",
+                "OnHirePurchase": "0",
+                "OnLeasing": "0",
+                "Other": "0"
+              },
+              "ExceptionalItemsPreEBT": "0",
+              "PreTaxProfitLoss": "-8527",
+              "Taxation": "-61",
+              "ExtraordinaryItems": "0",
+              "MinorityInterestsUKGAAP": "0",
+              "Dividends": "0",
+              "NetProfitLoss": "-8466"
+            },
+            "DiscontinuedOperations": {
+              "OperatingProfit": "0"
+            },
+            "DisclosureItems": {
+              "EmployeeRemunerationDetails": {
+                "EmployeeRemuneration": "4713000",
+                "Wages": "3899000",
+                "SocialSecurityCosts": "469000",
+                "PensionCosts": "345000",
+                "OtherCosts": "0"
+              },
+              "DirectorRemunerationDetails": {
+                "DirectorRemuneration": "400000"
+              },
+              "HighestPaidDirector": "165000",
+              "NumberEmployees": "60",
+              "AuditorRemuneration": "23000",
+              "NonAuditFees": "48000",
+              "DepreciationCharges": "187000",
+              "AmortisationCharges": "300000"
+            },
+            "ContingentLiability": "N",
+            "PostBalanceSheetEvents": "Y",
+            "CharitableGivingIndicator": "N"
+          },
+          {
+            "DateOfAccounts": "2016-12-31",
+            "AccountingPeriod": "52",
+            "Currency": "GBP",
+            "CurrencyMultiplier": "T",
+            "ConsolidatedAccounts": "Y",
+            "DormancyFlag": "N",
+            "LatestAccountsType": "G",
+            "RestatedAccounts": "N",
+            "BalanceSheet": {
+              "TangibleAssetsDetails": {
+                "TangibleAssets": "304",
+                "LandBuildings": "0",
+                "Freehold": "0",
+                "Leasehold": "0",
+                "FixturesFittings": "279",
+                "PlantVehicles": "25",
+                "Plant": "25",
+                "Vehicles": "0",
+                "OtherTangibleAssets": "0"
+              },
+              "IntangibleAssets": "5691",
+              "OtherNonCurrentAssetsDetails": {
+                "OtherNonCurrentAssets": "0"
+              },
+              "TotalFixedNonCurrentAssets": "5995",
+              "InventoriesDetails": null,
+              "DebtorsDetails": {
+                "Debtors": "4444",
+                "AccountsReceivableTradeDebtors": "19",
+                "OtherDebtors": "4425"
+              },
+              "TotalCashDetails": {
+                "TotalCash": "926"
+              },
+              "OtherCurrentAssetsDetails": {
+                "OtherCurrentAssets": "0"
+              },
+              "TotalCurrentAssets": "5370",
+              "CreditorsDetails": {
+                "AccountsPayableTradeCreditors": "363",
+                "GroupLoans": "0",
+                "AccrualsDeferredIncome": "256",
+                "SocialSecurityVAT": "44"
+              },
+              "FinancialLiabilitiesDetails": null,
+              "OtherCurrentLiabilitiesDetails": {
+                "OtherCurrentLiabilities": "152"
+              },
+              "TotalCurrentLiabilities": "815",
+              "WorkingCapital": "4555",
+              "CapitalEmployed": "10550",
+              "LongTermFinancialLiabilitiesDetails": {
+                "FinanceLeasesHirePurchase": "0",
+                "FinanceLease": "0",
+                "HirePurchase": "0",
+                "OtherLongTermLoans": "0"
+              },
+              "OtherNonCurrentLiabilitiesDetails": {
+                "OtherNonCurrentLiabilities": "0",
+                "GroupLoans": "0",
+                "DirectorLoans": "0",
+                "Accruals": "2"
+              },
+              "TotalNonCurrentLiabilities": "2",
+              "ProvisionsDetails": {
+                "Provisions": "150",
+                "OtherProvision": "150"
+              },
+              "MinorityInterestsUKGAAP": "0",
+              "NetAssets": "10398",
+              "IssuedCapitalDetails": {
+                "IssuedCapital": "754",
+                "OrdinaryShares": "754",
+                "PreferenceShares": "0",
+                "Other": "0"
+              },
+              "SharePremium": "20079",
+              "RetainedEarnings": "-10307",
+              "RevaluationReserve": "0",
+              "Other": "-128",
+              "TotalShareholdersFunds": "10398",
+              "NetWorth": "4707"
+            },
+            "ProfitLoss": {
+              "TurnoverSalesDetails": {
+                "TurnoverSales": "1560"
+              },
+              "CostOfSales": "387",
+              "ExceptionalItemsPreGP": "0",
+              "OtherDirectItems": "0",
+              "GrossProfit": "1173",
+              "OperatingExpenses": "12062",
+              "OperatingIncome": "0",
+              "ExceptionalItemsPreOP": "0",
+              "OperatingProfit": "-10889",
+              "OtherIncome": "0",
+              "InterestReceivable": "120",
+              "InterestPayableDetails": {
+                "InterestPayable": "224"
+              },
+              "ExceptionalItemsPreEBT": "0",
+              "PreTaxProfitLoss": "-10993",
+              "Taxation": "50",
+              "ExtraordinaryItems": "0",
+              "MinorityInterestsUKGAAP": "0",
+              "Dividends": "0",
+              "NetProfitLoss": "-11043"
+            },
+            "DiscontinuedOperations": {
+              "OperatingProfit": "0"
+            },
+            "DisclosureItems": {
+              "EmployeeRemunerationDetails": {
+                "EmployeeRemuneration": "3540000",
+                "Wages": "2923000",
+                "SocialSecurityCosts": "348000",
+                "PensionCosts": "269000",
+                "OtherCosts": "0"
+              },
+              "DirectorRemunerationDetails": {
+                "DirectorRemuneration": "934000"
+              },
+              "HighestPaidDirector": "344000",
+              "AuditorRemuneration": "13000",
+              "NonAuditFees": "62000",
+              "DepreciationCharges": "86000",
+              "AmortisationCharges": "326000"
+            },
+            "ContingentLiability": "N",
+            "PostBalanceSheetEvents": "N",
+            "CharitableGivingIndicator": "N"
+          }
+        ],
+        "Cashflow": [
+          {
+            "DateOfAccounts": "2017-12-31",
+            "AccountingPeriod": "52",
+            "Currency": "GBP",
+            "CurrencyMultiplier": "T",
+            "ConsAccounts": "Y",
+            "DormancyIndicator": "N",
+            "LatestAccountsType": "G",
+            "RestatedAccounts": "N",
+            "OperatingActivities": "-6649",
+            "ReturnOnInvestment": "-8",
+            "Tax": "0",
+            "CapitalExpenditure": "0",
+            "Acquisitions": "0",
+            "EquityDivision": "0",
+            "ManagementLiquidity": "0",
+            "Financing": "8893",
+            "TotalCash": "2236"
+          },
+          {
+            "DateOfAccounts": "2016-12-31",
+            "AccountingPeriod": "52",
+            "Currency": "GBP",
+            "CurrencyMultiplier": "T",
+            "ConsAccounts": "Y",
+            "DormancyIndicator": "N",
+            "LatestAccountsType": "G",
+            "RestatedAccounts": "N",
+            "OperatingActivities": "-10158",
+            "ReturnOnInvestment": "-5988",
+            "Tax": "0",
+            "CapitalExpenditure": "0",
+            "Acquisitions": "0",
+            "EquityDivision": "0",
+            "ManagementLiquidity": "0",
+            "Financing": "17072",
+            "TotalCash": "926"
+          }
+        ],
+        "Ratios": [
+          {
+            "DateOfAccounts": "2017-12-31",
+            "Currency": "GBP",
+            "ConsAccounts": "Y",
+            "CurrentRatio": "4.35",
+            "AcidTest": "4.35",
+            "CreditPeriod": "12.19",
+            "WorkingCapSales": "173.1",
+            "TradeCredrsDebtrs": "3.07",
+            "ReturnOnCapital": "-99.98",
+            "ReturnOnAssets": "-90.47",
+            "PreTaxProfitMargin": "-491.19",
+            "ReturnOnShareholdersFunds": "-106.71",
+            "EquityGearing": "84.79",
+            "SalesTangAssets": "13.05",
+            "AvgRemPerEmp": "78550",
+            "ProfitPerEmp": "-142117",
+            "TurnoverPerEmp": "28933",
+            "CapEmployedPerEmp": "142150",
+            "TangAssetsPerEmp": "2217",
+            "TotAssetsPerEmp": "157083",
+            "EmpRemunerationSales": "2.71",
+            "NumEmployees": "60",
+            "EmpRemuneration": "4713",
+            "DirRemuneration": "400"
+          },
+          {
+            "DateOfAccounts": "2016-12-31",
+            "Currency": "GBP",
+            "ConsAccounts": "Y",
+            "CurrentRatio": "6.59",
+            "AcidTest": "6.59",
+            "CreditPeriod": "4.45",
+            "WorkingCapSales": "291.99",
+            "TradeCredrsDebtrs": "19.11",
+            "ReturnOnCapital": "-104.2",
+            "ReturnOnAssets": "-96.73",
+            "PreTaxProfitMargin": "-704.68",
+            "ReturnOnShareholdersFunds": "-105.72",
+            "EquityGearing": "91.49",
+            "InterestCover": "-49.08",
+            "SalesTangAssets": "5.13",
+            "EmpRemunerationSales": "2.26",
+            "EmpRemuneration": "3540",
+            "DirRemuneration": "934"
+          }
+        ],
+        "PercentageChange": {
+          "DateOfAccounts": "2017-12-31",
+          "AccountingPeriod": "52",
+          "Currency": "GBP",
+          "ConsAccounts": "Y",
+          "PercentChangeGrossAsset": "-17.07",
+          "PercentChangeNetWorth": "-44.76",
+          "PercentChangeFixedAssets": "-7.86",
+          "PercentChangeCurrentAssets": "-27.36",
+          "PercentChangeCurrentLiabilities": "9.94",
+          "PercentChangeWorkingCapital": "-34.03",
+          "PercentChangeCapitalEmployed": "-19.16",
+          "PercentChangeNetAssets": "-23.15",
+          "PercentChangeIssuedCapital": "49.47",
+          "PercentChangeRetainedEarnings": "-76.56",
+          "PercentChangeShareholdersFunds": "-23.15",
+          "PercentChangeTotalTurnover": "11.28",
+          "PercentChangePreTaxProfitLoss": "22.43",
+          "PercentChangeRetainedProfitLoss": "23.34",
+          "PercentChangeCurrentRatio": "-33.92",
+          "PercentChangeCreditPeriod": "174.32",
+          "PercentChangeReturnOnCapital": "4.05",
+          "PercentChangePreTaxProfitMargin": "30.3",
+          "PercentChangeEquityGearing": "-7.32"
+        },
+        "Quartiles": {
+          "FullQuartiles": {
+            "YearEnd": "2017-12-31",
+            "DateOfAccounts": "2017-12-31",
+            "NumCompanies": "127278",
+            "CurrentRatioLower": "0.5",
+            "CurrentRatioMedian": "1.1",
+            "CurrentRatioUpper": "2.1",
+            "AcidTestLower": "0.4",
+            "AcidTestMedian": "1",
+            "AcidTestUpper": "2",
+            "StockTurnoverLower": "11.9",
+            "StockTurnoverMedian": "32",
+            "StockTurnoverUpper": "108.8",
+            "CreditPeriodLower": "0",
+            "CreditPeriodMedian": "10.3",
+            "CreditPeriodUpper": "46.1",
+            "WorkingCapLower": "-1.1",
+            "WorkingCapMedian": "5.3",
+            "WorkingCapUpper": "28.3",
+            "TradeCredrsDebtrsLower": "0",
+            "TradeCredrsDebtrsMedian": "0.3",
+            "TradeCredrsDebtrsUpper": "1",
+            "ReturnOnCapitalLower": "-0.3",
+            "ReturnOnCapitalMedian": "18.6",
+            "ReturnOnCapitalUpper": "94.4",
+            "ReturnOnAssetsLower": "-3.4",
+            "ReturnOnAssetsMedian": "7.5",
+            "ReturnOnAssetsUpper": "41.3",
+            "PreTaxMarginLower": "-0.1",
+            "PreTaxMarginMedian": "6.8",
+            "PreTaxMarginUpper": "28.4",
+            "ReturnOnShareholdersFundsLower": "0.2",
+            "ReturnOnShareholdersFundsMedian": "23.6",
+            "ReturnOnShareholdersFundsUpper": "100",
+            "BorrowingRatioLower": "0",
+            "BorrowingRatioMedian": "0",
+            "BorrowingRatioUpper": "10.4",
+            "EquityGearingLower": "0.8",
+            "EquityGearingMedian": "34.5",
+            "EquityGearingUpper": "87.2",
+            "DebtGearingLower": "0",
+            "DebtGearingMedian": "0",
+            "DebtGearingUpper": "0",
+            "InterestCoverLower": "-1",
+            "InterestCoverMedian": "5.7",
+            "InterestCoverUpper": "50.8",
+            "SalesTangAssetsLower": "4.6",
+            "SalesTangAssetsMedian": "17.8",
+            "SalesTangAssetsUpper": "72.7",
+            "AvgRemPerEmpLower": "15329.2",
+            "AvgRemPerEmpMedian": "25400.5",
+            "AvgRemPerEmpUpper": "40794",
+            "ProfitPerEmpLower": "-669.2",
+            "ProfitPerEmpMedian": "3334",
+            "ProfitPerEmpUpper": "15777.6",
+            "TurnoverPerEmpLower": "44959.9",
+            "TurnoverPerEmpMedian": "94562.6",
+            "TurnoverPerEmpUpper": "206478.4",
+            "CapEmployedPerEmpLower": "133",
+            "CapEmployedPerEmpMedian": "5452.3",
+            "CapEmployedPerEmpUpper": "28381.5",
+            "TangAssetsPerEmpLower": "0",
+            "TangAssetsPerEmpMedian": "1217",
+            "TangAssetsPerEmpUpper": "6371",
+            "TotAssetsPerEmpLower": "7289",
+            "TotAssetsPerEmpMedian": "21652",
+            "TotAssetsPerEmpUpper": "61663.9",
+            "EmpRemunerationSalesLower": "8.1",
+            "EmpRemunerationSalesMedian": "25.8",
+            "EmpRemunerationSalesUpper": "46.4",
+            "SICInformation1980": {
+              "Code": "9890",
+              "Description": "PERSONAL SERVICES"
+            },
+            "SICInformation1992": {
+              "Code": "9305",
+              "Description": "OTHER SERVICE ACTIVITIES"
+            }
+          },
+          "MedianQuartiles": {
+            "YearEnd": "2017-12-31",
+            "DateOfAccounts": "2017-12-31",
+            "NumCompanies": "127278",
+            "CurrentRatioMedian": "1.1",
+            "AcidTestMedian": "1",
+            "StockTurnoverMedian": "32",
+            "CreditPeriodMedian": "10.3",
+            "WorkingCapMedian": "5.3",
+            "TradeCredrsDebtrsMedian": "0.3",
+            "ReturnOnCapitalMedian": "18.6",
+            "ReturnOnAssetsMedian": "7.5",
+            "PreTaxMarginMedian": "6.8",
+            "ReturnOnShareholdersFundsMedian": "23.6",
+            "BorrowingRatioMedian": "0",
+            "EquityGearingMedian": "34.5",
+            "DebtGearingMedian": "0",
+            "InterestCoverMedian": "5.7",
+            "SalesTangAssetsMedian": "17.8",
+            "EmpRemunerationSalesMedian": "25.8",
+            "AvgRemPerEmpMedian": "25400.5",
+            "ProfitPerEmpMedian": "3334",
+            "TurnoverPerEmpMedian": "94562.6",
+            "CapEmployedPerEmpMedian": "5452.3",
+            "TangAssetsPerEmpMedian": "1217",
+            "TotAssetsPerEmpMedian": "21652",
+            "SICInformation1980": {
+              "Code": "9890",
+              "Description": "PERSONAL SERVICES"
+            },
+            "SICInformation1992": {
+              "Code": "9305",
+              "Description": "OTHER SERVICE ACTIVITIES"
+            }
+          }
+        }
+      },
+      "CCJs": {
+        "NumberCCJs0To72": "0",
+        "ValueCCJs0To72": "0",
+        "NumberCCJsLast12Months": "0",
+        "ValueCCJsLast12Months": "0",
+        "NumberCCJs13To24": "0",
+        "ValueCCJs13To24": "0",
+        "NumberCCJs25To36": "0",
+        "ValueCCJs25To36": "0",
+        "NumberCCJs37To48": "0",
+        "ValueCCJs37To48": "0",
+        "NumberCCJs49To60": "0",
+        "ValueCCJs49To60": "0",
+        "NumberCCJs61To72": "0",
+        "ValueCCJs61To72": "0"
+      },
+      "Mortgages": {
+        "NumMortgages": "1",
+        "NumSatMortgages": "1",
+        "NumUnsatMortgages": "0",
+        "DateMostRecentMort": "2016-04-12",
+        "RecMortDateFlag": "C",
+        "DateMostRecentSat": "2017-07-10",
+        "MortgageDetail": [
+          {
+            "ChargeNumber": "1",
+            "FormType": "33",
+            "RegistrationDate": "2016-04-26",
+            "CreationDate": "2016-04-12",
+            "Currency": "£",
+            "TotalDebenture": "0",
+            "AmountLatestIssue": "0",
+            "DateFullySatisfied": "2017-07-10",
+            "FullySatisfiedIndicator": "F",
+            "NumberPartialSatisfactionDates": "0",
+            "NumberPartialSatisfactionDataItems": "0",
+            "NumberTrustees": "0",
+            "NumberLenders": "1",
+            "NumberCommissionElements": "0",
+            "NumberExecutors": "0",
+            "NumberExecutionDates": "0",
+            "NumberReceiverAppointmentDates": "0",
+            "NumberReceiverCessationDates": "0",
+            "ChargeType": "MISCELLANEOUS",
+            "PropertyDetails": "CONTAINS FIXED CHARGE.CONTAINS FLOATING CHARGE.CONTAINS NEGATIVE PLEDGE.",
+            "LenderDetails": [
+              {
+                "LenderName": "ESO INVESTCO VI S.A R.L"
+              }
+            ]
+          }
+        ]
+      },
+      "LegalNotices": {
+        "SummaryCount": "0"
+      },
+      "CommercialDelphiHistory": {
+        "CompanyHistory": {
+          "CommDelphiScore": "015",
+          "CommDelphiBand": "6",
+          "StabilityOdds": "6:1",
+          "OverrideIndicator": "N",
+          "TextCount": "13",
+          "ScoreHistoryCount": "12",
+          "CommDelphiBandText": "Maximum risk",
+          "ScoreHistory": [
+            {
+              "ScoreHistoryDate": "2018-09-29",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2018-10-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2018-11-30",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2018-12-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-01-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-02-28",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-03-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-04-30",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-05-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-06-29",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-07-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            },
+            {
+              "ScoreHistoryDate": "2019-08-31",
+              "OverrideIndicator": "N",
+              "CommDelphiScore": "15",
+              "CreditRatingOverrideIndicator": "N",
+              "CreditRating": "000000000000000",
+              "CreditLimitOverrideIndicator": "N",
+              "CreditLimit": "000000000000000"
+            }
+          ]
+        },
+        "SectorScore": {
+          "RecentSnapshotDate": "2019-09-22",
+          "ScoreHistoryDate": [
+            "2018-09-29",
+            "2018-10-31",
+            "2018-11-30",
+            "2018-12-31",
+            "2019-01-31",
+            "2019-02-28",
+            "2019-03-31",
+            "2019-04-30",
+            "2019-05-31",
+            "2019-06-29",
+            "2019-07-31",
+            "2019-08-31"
+          ],
+          "AllCompGroup": "1",
+          "AllAverageDelphiScore": "045",
+          "AllAverageStabilityOdds": "17:1",
+          "AllHistoricalScore": {
+            "AllHistoricalAverageDelphiScore": [
+              "047",
+              "048",
+              "045",
+              "045",
+              "045",
+              "045",
+              "045",
+              "045",
+              "046",
+              "045",
+              "045",
+              "045"
+            ]
+          },
+          "IndCompGroup": "2",
+          "IndCompSector": "93",
+          "IndAverageDelphiScore": "042",
+          "IndAverageStabilityOdds": "17:1",
+          "IndHistoricalScore": {
+            "IndHistoricalAverageDelphiScore": [
+              "045",
+              "046",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042",
+              "042"
+            ]
+          },
+          "SizeCompGroup": "3",
+          "SizeCompSector": "09",
+          "SizeAverageDelphiScore": "079",
+          "SizeAverageStabilityOdds": "41:1",
+          "SizeHistoricalScore": {
+            "SizeHistoricalAverageDelphiScore": [
+              "080",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079",
+              "079"
+            ]
+          },
+          "AgeCompGroup": "4",
+          "AgeCompSector": "04",
+          "AgeAverageDelphiScore": "043",
+          "AgeAverageStabilityOdds": "17:1",
+          "AgeHistoricalScore": {
+            "AgeHistoricalAverageDelphiScore": [
+              "043",
+              "043",
+              "043",
+              "043",
+              "043",
+              "043",
+              "043",
+              "044",
+              "044",
+              "043",
+              "043",
+              "043"
+            ]
+          }
+        },
+        "SectorRanking": {
+          "AllCompGroup": "1",
+          "AllNumberSector": "3461485",
+          "AllPercentSector": "100",
+          "AllNumberLowerScore": "0664193",
+          "AllNumberSameScore": "0244816",
+          "AllNumberHigherScore": "2552476",
+          "AllPercentile": "026",
+          "IndCompGroup": "2",
+          "IndCompSector": "93",
+          "IndNumberSector": "0195822",
+          "IndPercentSector": "006",
+          "IndNumberLowerScore": "0041338",
+          "IndNumberSameScore": "0014394",
+          "IndNumberHigherScore": "0140090",
+          "IndPercentile": "028",
+          "SizeCompGroup": "3",
+          "SizeCompSector": "09",
+          "SizeNumberSector": "0089842",
+          "SizePercentSector": "003",
+          "SizeNumberLowerScore": "0003907",
+          "SizeNumberSameScore": "0002303",
+          "SizeNumberHigherScore": "0083632",
+          "SizePercentile": "007",
+          "AgeCompGroup": "4",
+          "AgeCompSector": "04",
+          "AgeNumberSector": "0453468",
+          "AgePercentSector": "013",
+          "AgeNumberLowerScore": "0076262",
+          "AgeNumberSameScore": "0063966",
+          "AgeNumberHigherScore": "0313240",
+          "AgePercentile": "031"
+        },
+        "Sectors": {
+          "AllCompGroup": "1",
+          "AllCompGroupName": "All Scored Companies",
+          "IndCompGroup": "2",
+          "IndCompGroupName": "Industry",
+          "IndCompGroupSector": "93",
+          "IndCompGroupSectorName": "Other Service Activities",
+          "SizeCompGroup": "3",
+          "SizeCompGroupName": "Company Size",
+          "SizeCompGroupSector": "09",
+          "SizeCompGroupSectorLowerBound": "000000005000000",
+          "SizeCompGroupSectorUpperBound": "000000200000000",
+          "AgeCompGroup": "4",
+          "AgeCompGroupName": "Company Age",
+          "AgeCompGroupSector": "04",
+          "AgeCompGroupSectorStartDate": "October 2014",
+          "AgeCompGroupSectorEndDate": "October 2016"
+        }
+      },
+      "ScoringData": {
+        "LegalStatus": "2",
+        "CompanyAge": "000050",
+        "SICInformation1980": {
+          "Code": "9890"
+        },
+        "SICInformation1992": {
+          "Code": "9305"
+        },
+        "Region": "W1",
+        "NumRegOfficeChangesLast12Months": "0",
+        "NumMemArtsChangesLast12Months": "1",
+        "HasSubsidiaries": "Y",
+        "IsSubsidiary": "1",
+        "NumEmployees": "60",
+        "TimeSinceLastRegOfficeChange": "40",
+        "NumCurrDirs": "5",
+        "IncompleteDirsFlag": "N",
+        "TimeSinceLastDirAppt": "46",
+        "OldestCurrDirAge": "-999",
+        "NumDirsHoldingShares": "3",
+        "NumDisqCurrDirs": "0",
+        "NumAppointmentsLast12": "0",
+        "ProportionCurrDirsToPrevDirLast12": "-9999.9",
+        "PercentageDirsResidentUK": "100",
+        "NumDirsIncorpAgents": "0",
+        "NumWindUpOrders": "0",
+        "TimeSinceLastWindUpOrder": "-99999",
+        "NumApptVolLiquidator": "0",
+        "TimeSinceLastApptVolLiquidator": "-99999",
+        "NumMeetingsCreditors": "0",
+        "TimeSinceLastMeetingCreditors": "-99999",
+        "NumResolutionWindUp": "0",
+        "TimeSinceLastResolutionWindUp": "-99999",
+        "NumApptCompLiquidator": "0",
+        "TimeSinceLastApptCompLiquidator": "-99999",
+        "NumApptReceiver": "0",
+        "TimeSinceLastApptReceiver": "-99999",
+        "NumReceiverCeasing": "0",
+        "TimeSinceLastReceiverCeasing": "-99999",
+        "NumPetitionCompWindUp": "0",
+        "TimeSinceLastPetitionCompWindUp": "-99999",
+        "NumDismissedPetition": "0",
+        "TimeSinceLastDismissedPetition": "-99999",
+        "NumApptAdministrator": "0",
+        "TimeSinceLastApptAdministrator": "-99999",
+        "NumDischargeAdministrator": "0",
+        "TimeSinceLastDischargeAdministrator": "-99999",
+        "NumApprovalVolArrangement": "0",
+        "TimeSinceLastApprovalVolArrangement": "-99999",
+        "NumRevocationVoluntaryArrangement": "0",
+        "TimeSinceLastRevocationVolArrangement": "-99999",
+        "NumSuspensionVolArrangement": "0",
+        "TimeSinceLastSuspensionVolArrangement": "-99999",
+        "NumCompletionsVolArrangement": "0",
+        "TimeSinceLastCompletionVolArrangement": "-99999",
+        "NumIntentionToDissolve": "0",
+        "TimeSinceLastIntentionToDissolve": "-99999",
+        "NumCompanyDissolved": "0",
+        "TimeSinceLastCompanyDissolved": "-99999",
+        "NumCompanyReinstated": "0",
+        "TimeSinceLastCompanyReinstated": "-99999",
+        "TimeSinceLastDerogatoryItem": "-99999",
+        "TimeSinceLastWindUpHearing": "-99999",
+        "AgeMostRecentCCJ": "-999",
+        "ValueMostRecentCCJ": "0",
+        "HighestValueCCJ": "0",
+        "NumberCCJs0To72": "0",
+        "ValueCCJs0To72": "0",
+        "NumberCCJsLast12Months": "0",
+        "ValueCCJsLast12Months": "0",
+        "NumberCCJs13To24": "0",
+        "ValueCCJs13To24": "0",
+        "NumberCCJs25To36": "0",
+        "ValueCCJs25To36": "0",
+        "NumberCCJs37To48": "0",
+        "ValueCCJs37To48": "0",
+        "NumberCCJs49To60": "0",
+        "ValueCCJs49To60": "0",
+        "NumberCCJs61To72": "0",
+        "ValueCCJs61To72": "0",
+        "TotValCCJsPropShareFunds": "0",
+        "ValCCJsLast24MonthsPropShareFunds": "0",
+        "NumUnsatPartSatMortgages": "0",
+        "NumSatMortgages": "1",
+        "NumUnsatMortgages": "0",
+        "CurrAccsAvailabe": "Y",
+        "PrevAccsAvailabile": "Y",
+        "OutOfDateFlag": "N",
+        "DormancyFlag": "N",
+        "PrevAccountsDormancyFlag": "N",
+        "AuditType": "A",
+        "AuditorsQualifications": "0",
+        "LatenessAccounts": "0000",
+        "FicheDate": "2018-10-05",
+        "NumberDaysToFile": "275",
+        "NumYearsAccosAvailable": "2",
+        "TimeSinceLastAccsSubmitted": "21",
+        "TimeSinceLastRetsSubmitted": "3",
+        "LatestAccountsType": "4",
+        "DateOfAccounts": "2017-12-31",
+        "AccountingPeriod": "52",
+        "Currency": "GBP",
+        "PrevAccsCurrency": "GBP",
+        "ConsAccounts": "Y",
+        "PrevAccsConsAccounts": "Y",
+        "NetWorth": "2600000",
+        "IntangibleAssets": "5391000",
+        "FixedAssets": "5524000",
+        "TotalCurrentAssets": "3901000",
+        "ShortLoans": "0",
+        "TotalCurrentLiabilities": "896000",
+        "WorkingCapital": "3005000",
+        "CapitalEmployed": "8529000",
+        "TotalLongTermLiabilities": "0",
+        "IssuedCapital": "1127000",
+        "RevaluationReserves": "0",
+        "RetainedEarnings": "-18198000",
+        "ShareholdersFunds": "7991000",
+        "TotalAssets": "9425000",
+        "GrossAssets": "9425000",
+        "TotalTurnover": "1736000",
+        "PreTaxProfitLoss": "-8527000",
+        "Dividends": "0",
+        "RetainedProfit": "-8466000",
+        "CreditPeriod": "12",
+        "LiquidityStandardRatio": "4.4",
+        "Currentratio": "4.4",
+        "AcidTest": "4.4",
+        "ReturnOnCapital": "-100",
+        "ReturnOnAssets": "-90.5",
+        "PreTaxProfitMargin": "-491.2",
+        "BorrowingRatio": "-999999.9",
+        "EquityGearing": "84.8",
+        "DebtGearing": "-999999.9",
+        "TurnoverPerEmp": "28933",
+        "TotAssetsEmp": "157083",
+        "TotalFixedAssetsPercentTotalAssets": "58.6",
+        "CurrentLiabilitiesPercentTotalAssets": "9.5",
+        "CapitalEmployedPercentTotalAssets": "90.5",
+        "StocksWorkInProgressPercentCurrentAssets": "0",
+        "WorkingCapitalPercentCurrentPlusFixedAssets": "31.9",
+        "BaseTrendShareholdersFunds": "8",
+        "PercentChangeShareholdersFunds": "-23.2",
+        "PercentChangeCapitalEmployed": "-19.2",
+        "PercentChangeTotalAssets": "-17.1",
+        "PercentChangeCurrentRatio": "-33.9",
+        "PercentChangePreTaxProfitLoss": "22.4",
+        "NumYearsPreTaxProfitLessThan0Last4Years": "9",
+        "ReturnOnAssetsQuartile": "1",
+        "PreTaxMarginQuartile": "1",
+        "FiledAccsType": "G",
+        "LimitedCompanyDelphiCAIS": {
+          "NumDefaults": "-999",
+          "ValueDefaults": "-999999999",
+          "AgeMostRecent": "-999",
+          "NumSettled": "-999",
+          "NumOwnAccounts": "000000",
+          "TotalBalanceOwnAccounts": "-0999999999",
+          "AvgBalanceOwnAccounts": "-0999999999",
+          "WorstStatusOld": "X",
+          "WorstStatusActive": "X",
+          "NumActiveAccounts": "-999",
+          "BalanceActiveAccounts": "-999999999"
+        },
+        "LimitedCompanyDelphiRisk": [
+          {
+            "CommercialDelphiScore": "015",
+            "CreditRating": "000000000000000",
+            "CreditLimit": "000000000000000",
+            "CreditCode": "G0",
+            "CommercialDelphiOverRideFlag": "N",
+            "CreditRatingOverRideflag": "N",
+            "CredLimitOverRideFlag": "N",
+            "CreditCodeOverRideFlag": "N"
+          }
+        ],
+        "LimitedCompanyDelphiPayment": [
+          {
+            "AverageCurrentDaysBeyondTerm": "00000000",
+            "AverageNumberExperiencesLast3month": "00000003",
+            "NumberOfAccountsCollectionLast12Months": "000000",
+            "NumberUnpaidAccountsLastMonth": "000000",
+            "PercentChangeLast3Months": "-9999999"
+          }
+        ],
+        "ReportUpdateFlag": "0"
+      },
+      "Alerts": [
+        {
+          "NotesCount": "1",
+          "NotesLength": "151",
+          "Notes": {
+            "AlertCode": "A04",
+            "AlertHeader": "Director Alert",
+            "AlertNote": "It is recommended that the other directorships of the current board are examined as this may have a bearing on any credit decision."
+          }
+        }
+      ],
+      "NoticeOfCorrection": {
+        "NumCorrections": "0"
+      },
+      "DirectorExpandedSummary": [
+        {
+          "NumDirectorsFound": "0",
+          "NumDirectorsNotFound": "0",
+          "NocFlag": "N",
+          "NumDisqualifications": "0",
+          "NumConvictions": "0",
+          "NumCIFAS": "0",
+          "NumDirectorships": "0",
+          "NumCurrrentDirships": "0",
+          "NumCurrentDissolvedDirships": "0",
+          "NumPreviousDirectorships": "0",
+          "NumDirectorshipsFailed": "0",
+          "NumDirectorshipsNotFailed": "0",
+          "NumDirectorshipsCompulsoryLiquidator": "0",
+          "NumDirectorshipsCreditorLiquidator": "0",
+          "NumDirectorshipsMemberLiqidator": "0",
+          "NumDirectorshipsUnknownLiquidator": "0",
+          "NumDirectorshipsWindUpOrder": "0",
+          "NumDirectorshipsAdministratorAppointed": "0",
+          "NumDirectorshipsAdministratorDischarge": "0",
+          "NumDirectorshipsAppointmentAdministrativeReceiver": "0",
+          "NumDirectorshipsReceiverAppointed": "0",
+          "NumDirectorshipsAdministrativeReceiverCessation": "0",
+          "NumDirectorshipsReceiverCessation": "0",
+          "NumDirectorshipsApprovalVoluntaryArrangements": "0",
+          "NumDirectorshipsCompletionVoluntaryArrangements": "0",
+          "NumDirectorshipsRevocationVoluntaryArrangements": "0",
+          "NumDirectorshipsSuspensionVoluntaryArrangements": "0",
+          "NumDirectorshipsReinstated": "0",
+          "NumDirectorshipsDissolved": "0"
+        }
+      ]
+    },
+    "id": 1525,
+    "dateCreated": "2019-09-27T09:52:21.157Z"
+  },
+  "experianFSSReport": {
+    "companyNumber": "09707863",
+    "reportData": {
+      "RegNumber": "09707863",
+      "FSS": {
+        "FinancialScore": "72.0",
+        "FSSBand": "B-",
+        "FSSDate": "2019-09-15 16:29:04+00"
+      },
+      "FSSHistory": [
+        {
+          "FinancialScore": "53.0",
+          "FSSDate": "2018-09",
+          "FSSBand": "C+"
+        },
+        {
+          "FinancialScore": "50.0",
+          "FSSDate": "2018-10",
+          "FSSBand": "C+"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2018-11",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2018-12",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-01",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-02",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-03",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-04",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-05",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-06",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-07",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-08",
+          "FSSBand": "B-"
+        },
+        {
+          "FinancialScore": "72.0",
+          "FSSDate": "2019-09",
+          "FSSBand": "B-"
+        }
+      ]
+    },
+    "id": 1516,
+    "dateCreated": "2019-09-27T09:52:22.354Z"
+  },
+  "id": 2114,
+  "dateCreated": "2019-09-27T09:52:22.370Z",
+  "knackSavedDate": null
+}

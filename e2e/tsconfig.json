@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "lib": ["esnext"],
+    "skipLibCheck": true,
+    "strict": true,
+    "types": ["cypress", "node"]
+  },
+  "include": ["cypress/*/*.ts", "cypress/global.d.ts"]
+}

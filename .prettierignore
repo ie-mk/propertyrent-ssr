@@ -1,0 +1,5 @@
+**/*.min.js
+**/*.plugin.js
+*.snap
+.prettierignore
+*.feature

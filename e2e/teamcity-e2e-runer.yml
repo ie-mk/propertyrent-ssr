@@ -1,0 +1,10 @@
+version: '2'
+services:
+  cypress:
+    #https://github.com/cypress-io/cypress/issues/350
+    ipc: host
+    build:
+      context: ..
+      dockerfile: ./e2e/Dockerfile-e2e
+    volumes:
+      - ./cypress/artifacts:/tmp/cypress

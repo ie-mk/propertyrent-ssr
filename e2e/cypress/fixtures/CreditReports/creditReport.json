@@ -1,0 +1,787 @@
+{
+  "id": 30,
+  "companyNumber": "09707863",
+  "companyName": "ESF CAPITAL LIMITED",
+  "reportData": {
+    "1527163881": {
+      "regNumber": "09707863",
+      "companyName": "ESF CAPITAL LIMITED",
+      "address": {
+        "LocationLine1": "2ND FLOOR NEWLANDS HOUSE",
+        "LocationLine2": "40 BERNERS STREET",
+        "LocationLine3": "LONDON",
+        "Postcode": "W1T 3NA"
+      },
+      "incorporationDate": "2015-07-29",
+      "latestAccounts": "2016-12-31",
+      "numberDaysToFileAccounts": "241",
+      "auditor": "RSM UK AUDIT LLP",
+      "bank": "-",
+      "delphi": {
+        "score": "15",
+        "band": "6",
+        "bandText": "Maximum risk",
+        "conclusionText": [
+          "A maximum risk company; all credit transactions should be supported by a director's guarantee.",
+          "There has been a very heavy trading loss in the first accounting period."
+        ]
+      },
+      "monthlyDelphi": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 15
+            },
+            {
+              "name": "Jun '17",
+              "value": 18
+            },
+            {
+              "name": "Jul '17",
+              "value": 15
+            },
+            {
+              "name": "Aug '17",
+              "value": 6
+            },
+            {
+              "name": "Sep '17",
+              "value": 15
+            },
+            {
+              "name": "Oct '17",
+              "value": 15
+            },
+            {
+              "name": "Nov '17",
+              "value": 15
+            },
+            {
+              "name": "Dec '17",
+              "value": 15
+            },
+            {
+              "name": "Jan '18",
+              "value": 15
+            },
+            {
+              "name": "Feb '18",
+              "value": 15
+            },
+            {
+              "name": "Mar '18",
+              "value": 15
+            },
+            {
+              "name": "Apr '18",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Jun '17",
+              "value": 41
+            },
+            {
+              "name": "Jul '17",
+              "value": 41
+            },
+            {
+              "name": "Aug '17",
+              "value": 41
+            },
+            {
+              "name": "Sep '17",
+              "value": 40
+            },
+            {
+              "name": "Nov '17",
+              "value": 40
+            },
+            {
+              "name": "Oct '17",
+              "value": 40
+            },
+            {
+              "name": "Nov '17",
+              "value": 40
+            },
+            {
+              "name": "Dec '17",
+              "value": 40
+            },
+            {
+              "name": "Jan '18",
+              "value": 40
+            },
+            {
+              "name": "Feb '18",
+              "value": 41
+            },
+            {
+              "name": "Mar '18",
+              "value": 41
+            },
+            {
+              "name": "Apr '18",
+              "value": 42
+            }
+          ]
+        }
+      ],
+      "fss": {
+        "id": 44,
+        "score": "53.0",
+        "band": 6,
+        "bandText": "C+"
+      },
+      "hfs": {
+        "band": 5,
+        "bandText": "D2"
+      },
+      "turnover": ["1560"],
+      "salesGrowth": 0,
+      "salesGrowthBand": 7,
+      "avgDBT": [
+        {
+          "name": "3 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "25"
+            }
+          ]
+        },
+        {
+          "name": "6 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "24"
+            }
+          ]
+        },
+        {
+          "name": "12 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "24"
+            }
+          ]
+        }
+      ],
+      "monthlyDBT": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 0
+            },
+            {
+              "name": "Jun '17",
+              "value": 0
+            },
+            {
+              "name": "Jul '17",
+              "value": 0
+            },
+            {
+              "name": "Aug '17",
+              "value": 0
+            },
+            {
+              "name": "Sep '17",
+              "value": 0
+            },
+            {
+              "name": "Oct '17",
+              "value": 0
+            },
+            {
+              "name": "Nov '17",
+              "value": 0
+            },
+            {
+              "name": "Dec '17",
+              "value": 0
+            },
+            {
+              "name": "Jan '18",
+              "value": 0
+            },
+            {
+              "name": "Feb '18",
+              "value": 0
+            },
+            {
+              "name": "Mar '18",
+              "value": 0
+            },
+            {
+              "name": "Apr '18",
+              "value": 0
+            },
+            {
+              "name": "May '18",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 23
+            },
+            {
+              "name": "Jun '17",
+              "value": 23
+            },
+            {
+              "name": "Jul '17",
+              "value": 23
+            },
+            {
+              "name": "Aug '17",
+              "value": 22
+            },
+            {
+              "name": "Sep '17",
+              "value": 22
+            },
+            {
+              "name": "Oct '17",
+              "value": 23
+            },
+            {
+              "name": "Nov '17",
+              "value": 24
+            },
+            {
+              "name": "Dec '17",
+              "value": 24
+            },
+            {
+              "name": "Jan '18",
+              "value": 24
+            },
+            {
+              "name": "Feb '18",
+              "value": 24
+            },
+            {
+              "name": "Mar '18",
+              "value": 25
+            },
+            {
+              "name": "Apr '18",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "monthlyDBTExposures": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 2
+            },
+            {
+              "name": "Jun '17",
+              "value": 3
+            },
+            {
+              "name": "Jul '17",
+              "value": 4
+            },
+            {
+              "name": "Aug '17",
+              "value": 3
+            },
+            {
+              "name": "Sep '17",
+              "value": 2
+            },
+            {
+              "name": "Oct '17",
+              "value": 2
+            },
+            {
+              "name": "Nov '17",
+              "value": 2
+            },
+            {
+              "name": "Dec '17",
+              "value": 2
+            },
+            {
+              "name": "Jan '18",
+              "value": 1
+            },
+            {
+              "name": "Feb '18",
+              "value": 1
+            },
+            {
+              "name": "Mar '18",
+              "value": 1
+            },
+            {
+              "name": "Apr '18",
+              "value": 1
+            },
+            {
+              "name": "May '18",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "DBTByAccount": {
+        "1K": {
+          "company": "-",
+          "industry": "21"
+        },
+        "10K": {
+          "company": "0",
+          "industry": "41"
+        },
+        "100K": {
+          "company": "-",
+          "industry": "38"
+        },
+        "100KPlus": {
+          "company": "-",
+          "industry": "21"
+        }
+      },
+      "CCJs": [
+        {
+          "period": "12 Months",
+          "number": "0",
+          "value": "0"
+        },
+        {
+          "period": "6 Years",
+          "number": "0",
+          "value": "0"
+        }
+      ],
+      "dateCreated": "2018-05-24T12:11:21.162Z",
+      "cachedDays": 78.0398537037037
+    },
+    "1527241310": {
+      "regNumber": "09707863",
+      "companyName": "ESF CAPITAL LIMITED",
+      "address": {
+        "LocationLine1": "2ND FLOOR NEWLANDS HOUSE",
+        "LocationLine2": "40 BERNERS STREET",
+        "LocationLine3": "LONDON",
+        "Postcode": "W1T 3NA"
+      },
+      "incorporationDate": "2015-07-29",
+      "latestAccounts": "2016-12-31",
+      "numberDaysToFileAccounts": "241",
+      "auditor": "RSM UK AUDIT LLP",
+      "bank": "-",
+      "delphi": {
+        "score": "15",
+        "band": "6",
+        "bandText": "Maximum risk",
+        "conclusionText": [
+          "A maximum risk company; all credit transactions should be supported by a director's guarantee.",
+          "There has been a very heavy trading loss in the first accounting period."
+        ]
+      },
+      "monthlyDelphi": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 15
+            },
+            {
+              "name": "Jun '17",
+              "value": 18
+            },
+            {
+              "name": "Jul '17",
+              "value": 15
+            },
+            {
+              "name": "Aug '17",
+              "value": 6
+            },
+            {
+              "name": "Sep '17",
+              "value": 15
+            },
+            {
+              "name": "Oct '17",
+              "value": 15
+            },
+            {
+              "name": "Nov '17",
+              "value": 15
+            },
+            {
+              "name": "Dec '17",
+              "value": 15
+            },
+            {
+              "name": "Jan '18",
+              "value": 15
+            },
+            {
+              "name": "Feb '18",
+              "value": 15
+            },
+            {
+              "name": "Mar '18",
+              "value": 15
+            },
+            {
+              "name": "Apr '18",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Jun '17",
+              "value": 41
+            },
+            {
+              "name": "Jul '17",
+              "value": 41
+            },
+            {
+              "name": "Aug '17",
+              "value": 41
+            },
+            {
+              "name": "Sep '17",
+              "value": 40
+            },
+            {
+              "name": "Nov '17",
+              "value": 40
+            },
+            {
+              "name": "Oct '17",
+              "value": 40
+            },
+            {
+              "name": "Nov '17",
+              "value": 40
+            },
+            {
+              "name": "Dec '17",
+              "value": 40
+            },
+            {
+              "name": "Jan '18",
+              "value": 40
+            },
+            {
+              "name": "Feb '18",
+              "value": 41
+            },
+            {
+              "name": "Mar '18",
+              "value": 41
+            },
+            {
+              "name": "Apr '18",
+              "value": 42
+            }
+          ]
+        }
+      ],
+      "fss": {
+        "id": 46,
+        "score": "53.0",
+        "band": 6,
+        "bandText": "C+"
+      },
+      "hfs": {
+        "band": 5,
+        "bandText": "D2"
+      },
+      "turnover": ["1560"],
+      "salesGrowth": 0,
+      "salesGrowthBand": 7,
+      "avgDBT": [
+        {
+          "name": "3 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "25"
+            }
+          ]
+        },
+        {
+          "name": "6 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "24"
+            }
+          ]
+        },
+        {
+          "name": "12 Mnths",
+          "series": [
+            {
+              "name": "ESF CAPITAL LIMITED",
+              "value": "0"
+            },
+            {
+              "name": "Industry Average",
+              "value": "24"
+            }
+          ]
+        }
+      ],
+      "monthlyDBT": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 0
+            },
+            {
+              "name": "Jun '17",
+              "value": 0
+            },
+            {
+              "name": "Jul '17",
+              "value": 0
+            },
+            {
+              "name": "Aug '17",
+              "value": 0
+            },
+            {
+              "name": "Sep '17",
+              "value": 0
+            },
+            {
+              "name": "Oct '17",
+              "value": 0
+            },
+            {
+              "name": "Nov '17",
+              "value": 0
+            },
+            {
+              "name": "Dec '17",
+              "value": 0
+            },
+            {
+              "name": "Jan '18",
+              "value": 0
+            },
+            {
+              "name": "Feb '18",
+              "value": 0
+            },
+            {
+              "name": "Mar '18",
+              "value": 0
+            },
+            {
+              "name": "Apr '18",
+              "value": 0
+            },
+            {
+              "name": "May '18",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 23
+            },
+            {
+              "name": "Jun '17",
+              "value": 23
+            },
+            {
+              "name": "Jul '17",
+              "value": 23
+            },
+            {
+              "name": "Aug '17",
+              "value": 22
+            },
+            {
+              "name": "Sep '17",
+              "value": 22
+            },
+            {
+              "name": "Oct '17",
+              "value": 23
+            },
+            {
+              "name": "Nov '17",
+              "value": 24
+            },
+            {
+              "name": "Dec '17",
+              "value": 24
+            },
+            {
+              "name": "Jan '18",
+              "value": 24
+            },
+            {
+              "name": "Feb '18",
+              "value": 24
+            },
+            {
+              "name": "Mar '18",
+              "value": 25
+            },
+            {
+              "name": "Apr '18",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "monthlyDBTExposures": [
+        {
+          "name": "ESF CAPITAL LIMITED",
+          "series": [
+            {
+              "name": "May '17",
+              "value": 2
+            },
+            {
+              "name": "Jun '17",
+              "value": 3
+            },
+            {
+              "name": "Jul '17",
+              "value": 4
+            },
+            {
+              "name": "Aug '17",
+              "value": 3
+            },
+            {
+              "name": "Sep '17",
+              "value": 2
+            },
+            {
+              "name": "Oct '17",
+              "value": 2
+            },
+            {
+              "name": "Nov '17",
+              "value": 2
+            },
+            {
+              "name": "Dec '17",
+              "value": 2
+            },
+            {
+              "name": "Jan '18",
+              "value": 1
+            },
+            {
+              "name": "Feb '18",
+              "value": 1
+            },
+            {
+              "name": "Mar '18",
+              "value": 1
+            },
+            {
+              "name": "Apr '18",
+              "value": 1
+            },
+            {
+              "name": "May '18",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "DBTByAccount": {
+        "1K": {
+          "company": "-",
+          "industry": "21"
+        },
+        "10K": {
+          "company": "0",
+          "industry": "41"
+        },
+        "100K": {
+          "company": "-",
+          "industry": "38"
+        },
+        "100KPlus": {
+          "company": "-",
+          "industry": "21"
+        }
+      },
+      "CCJs": [
+        {
+          "period": "12 Months",
+          "number": "0",
+          "value": "0"
+        },
+        {
+          "period": "6 Years",
+          "number": "0",
+          "value": "0"
+        }
+      ],
+      "dateCreated": "2018-05-25T09:41:50.508Z",
+      "cachedDays": 77.14368075231482
+    }
+  },
+  "dateCreated": "2018-05-25T10:41:50.508Z",
+  "knackSavedDate": null
+}

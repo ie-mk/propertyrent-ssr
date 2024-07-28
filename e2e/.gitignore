@@ -1,0 +1,4 @@
+cypress/videos
+node_modules
+.idea
+cypress/integration/examples

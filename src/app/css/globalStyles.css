@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 13px;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+}
+
+.hidden {
+  display: none;
+}
+
+.non-js {
+  .hidden {
+    display: inline-block;
+  }
+}

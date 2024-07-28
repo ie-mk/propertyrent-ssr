@@ -1,0 +1,463 @@
+{
+  "id": 104,
+  "companyNumber": "03884704",
+  "companyName": "BOVEY CONSTRUCTION LIMITED",
+  "reportData": {
+    "1575026465": {
+      "regNumber": "03884704",
+      "companyName": "BOVEY CONSTRUCTION LIMITED",
+      "address": {
+        "LocationLine1": "7 SAINT PAULS ROAD",
+        "LocationLine2": "NEWTON ABBOT",
+        "LocationLine3": "DEVON",
+        "Postcode": "TQ12 2HP"
+      },
+      "incorporationDate": "1999-11-26",
+      "latestAccounts": "2019-03-31",
+      "numberDaysToFileAccounts": "169",
+      "auditor": "-",
+      "bank": "-",
+      "delphi": {
+        "score": "68",
+        "band": "3",
+        "bandText": "Below Average Risk",
+        "conclusionText": [
+          "A below average risk company; little reason to doubt credit transactions to the limit assigned.",
+          "An analysis has been conducted against the company and as a result, the credit rating and score has been amended."
+        ]
+      },
+      "monthlyDelphi": [
+        {
+          "name": "BOVEY CONSTRUCTION LIMITED",
+          "series": [
+            {
+              "name": "Nov '18",
+              "value": 78
+            },
+            {
+              "name": "Dec '18",
+              "value": 72
+            },
+            {
+              "name": "Jan '19",
+              "value": 54
+            },
+            {
+              "name": "Feb '19",
+              "value": 54
+            },
+            {
+              "name": "Mar '19",
+              "value": 54
+            },
+            {
+              "name": "Apr '19",
+              "value": 54
+            },
+            {
+              "name": "May '19",
+              "value": 54
+            },
+            {
+              "name": "Jun '19",
+              "value": 54
+            },
+            {
+              "name": "Jul '19",
+              "value": 54
+            },
+            {
+              "name": "Aug '19",
+              "value": 54
+            },
+            {
+              "name": "Sep '19",
+              "value": 80
+            },
+            {
+              "name": "Oct '19",
+              "value": 68
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Nov '18",
+              "value": 41
+            },
+            {
+              "name": "Dec '18",
+              "value": 41
+            },
+            {
+              "name": "Jan '19",
+              "value": 41
+            },
+            {
+              "name": "Feb '19",
+              "value": 41
+            },
+            {
+              "name": "Mar '19",
+              "value": 41
+            },
+            {
+              "name": "Apr '19",
+              "value": 41
+            },
+            {
+              "name": "May '19",
+              "value": 41
+            },
+            {
+              "name": "Jun '19",
+              "value": 41
+            },
+            {
+              "name": "Jul '19",
+              "value": 41
+            },
+            {
+              "name": "Aug '19",
+              "value": 41
+            },
+            {
+              "name": "Sep '19",
+              "value": 41
+            },
+            {
+              "name": "Oct '19",
+              "value": 41
+            }
+          ]
+        }
+      ],
+      "fss": {
+        "score": "82.0",
+        "band": 8,
+        "bandText": "B+"
+      },
+      "monthlyFSS": [
+        {
+          "name": "Nov '18",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Dec '18",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Jan '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Feb '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Mar '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Apr '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "May '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Jun '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Jul '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Aug '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Sep '19",
+          "value": "86.0",
+          "band": "A-"
+        },
+        {
+          "name": "Oct '19",
+          "value": "82.0",
+          "band": "B+"
+        },
+        {
+          "name": "Nov '19",
+          "value": "82.0",
+          "band": "B+"
+        }
+      ],
+      "hfs": {
+        "band": 9,
+        "bandText": "B2"
+      },
+      "turnover": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "salesGrowth": 0,
+      "salesGrowthBand": 7,
+      "avgDBT": [
+        {
+          "name": "3 Mnths",
+          "series": [
+            {
+              "name": "BOVEY CONSTRUCTION LIMITED",
+              "value": "3"
+            },
+            {
+              "name": "Industry Average",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "name": "6 Mnths",
+          "series": [
+            {
+              "name": "BOVEY CONSTRUCTION LIMITED",
+              "value": "1"
+            },
+            {
+              "name": "Industry Average",
+              "value": "12"
+            }
+          ]
+        },
+        {
+          "name": "12 Mnths",
+          "series": [
+            {
+              "name": "BOVEY CONSTRUCTION LIMITED",
+              "value": "2"
+            },
+            {
+              "name": "Industry Average",
+              "value": "13"
+            }
+          ]
+        }
+      ],
+      "monthlyDBT": [
+        {
+          "name": "BOVEY CONSTRUCTION LIMITED",
+          "series": [
+            {
+              "name": "Nov '18",
+              "value": 0
+            },
+            {
+              "name": "Dec '18",
+              "value": 4
+            },
+            {
+              "name": "Jan '19",
+              "value": 6
+            },
+            {
+              "name": "Feb '19",
+              "value": 5
+            },
+            {
+              "name": "Mar '19",
+              "value": 3
+            },
+            {
+              "name": "Apr '19",
+              "value": 0
+            },
+            {
+              "name": "May '19",
+              "value": 0
+            },
+            {
+              "name": "Jun '19",
+              "value": 0
+            },
+            {
+              "name": "Jul '19",
+              "value": 1
+            },
+            {
+              "name": "Aug '19",
+              "value": 3
+            },
+            {
+              "name": "Sep '19",
+              "value": 3
+            },
+            {
+              "name": "Oct '19",
+              "value": 2
+            },
+            {
+              "name": "Nov '19",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "Industry Average",
+          "series": [
+            {
+              "name": "Nov '18",
+              "value": 12
+            },
+            {
+              "name": "Dec '18",
+              "value": 12
+            },
+            {
+              "name": "Jan '19",
+              "value": 13
+            },
+            {
+              "name": "Feb '19",
+              "value": 14
+            },
+            {
+              "name": "Mar '19",
+              "value": 14
+            },
+            {
+              "name": "Apr '19",
+              "value": 13
+            },
+            {
+              "name": "May '19",
+              "value": 12
+            },
+            {
+              "name": "Jun '19",
+              "value": 11
+            },
+            {
+              "name": "Jul '19",
+              "value": 11
+            },
+            {
+              "name": "Aug '19",
+              "value": 12
+            },
+            {
+              "name": "Sep '19",
+              "value": 13
+            },
+            {
+              "name": "Oct '19",
+              "value": 13
+            }
+          ]
+        }
+      ],
+      "monthlyDBTExposures": [
+        {
+          "name": "BOVEY CONSTRUCTION LIMITED",
+          "series": [
+            {
+              "name": "Nov '18",
+              "value": 7
+            },
+            {
+              "name": "Dec '18",
+              "value": 8
+            },
+            {
+              "name": "Jan '19",
+              "value": 10
+            },
+            {
+              "name": "Feb '19",
+              "value": 11
+            },
+            {
+              "name": "Mar '19",
+              "value": 10
+            },
+            {
+              "name": "Apr '19",
+              "value": 9
+            },
+            {
+              "name": "May '19",
+              "value": 8
+            },
+            {
+              "name": "Jun '19",
+              "value": 7
+            },
+            {
+              "name": "Jul '19",
+              "value": 6
+            },
+            {
+              "name": "Aug '19",
+              "value": 6
+            },
+            {
+              "name": "Sep '19",
+              "value": 5
+            },
+            {
+              "name": "Oct '19",
+              "value": 4
+            },
+            {
+              "name": "Nov '19",
+              "value": 3
+            }
+          ]
+        }
+      ],
+      "DBTByAccount": {
+        "1K": {
+          "company": "8",
+          "industry": "12"
+        },
+        "10K": {
+          "company": "0",
+          "industry": "16"
+        },
+        "100K": {
+          "company": "-",
+          "industry": "12"
+        },
+        "100KPlus": {
+          "company": "-",
+          "industry": "8"
+        }
+      },
+      "CCJs": [
+        {
+          "period": "12 Months",
+          "number": "0",
+          "value": "0"
+        },
+        {
+          "period": "6 Years",
+          "number": "0",
+          "value": "0"
+        }
+      ],
+      "dateCreated": "2019-11-29T11:21:05.261Z"
+    }
+  },
+  "dateCreated": "2019-12-03T14:57:58.224Z",
+  "knackSavedDate": null
+}
